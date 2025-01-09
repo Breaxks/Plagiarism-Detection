@@ -1,0 +1,1037 @@
+source_text,plagiarized_text,label
+Researchers have discovered a new species of butterfly in the Amazon rainforest.,Scientists have found a previously unknown butterfly species in the Amazon jungle.,1
+The moon orbits the Earth in approximately 27.3 days.,Our natural satellite takes around 27.3 days to complete one orbit around our planet.,1
+Water is composed of two hydrogen atoms and one oxygen atom.,H2O consists of 2 hydrogen atoms and 1 oxygen atom.,1
+The history of Rome dates back to 753 BC.,Rome has a long history that can be traced back to 753 BC.,1
+This is a unique and original sentence.,This sentence is unique and original.,0
+Artificial intelligence is reshaping industries.,AI is changing the landscape of various sectors.,0
+Python is a popular programming language for data science.,Data science often relies on Python as a widely used programming language.,0
+The Earth revolves around the Sun in a nearly circular orbit.,Our planet follows an almost circular path as it moves around the central star.,0
+Paris is the capital of France.,France's capital city is Paris.,0
+Researchers have discovered a new planet in the Milky Way.,Researchers have found a newly identified planet in the Milky Way.,1
+Newton's first law states that an object at rest stays at rest.,Newton's law says an object will remain at rest unless acted upon.,1
+The sun rises in the east.,The sun appears to rise from the eastern horizon.,1
+Albert Einstein developed the theory of relativity.,Albert Einstein is known for creating the theory of relativity.,1
+Mount Everest is the tallest mountain on Earth.,Mount Everest is the highest peak in the world.,1
+Shakespeare wrote many famous plays and sonnets.,Shakespeare authored numerous renowned plays and sonnets.,1
+The Great Wall of China is visible from space.,The Great Wall of China can supposedly be seen from space.,1
+Thomas Edison invented the electric light bulb.,Thomas Edison is credited with the invention of the light bulb.,1
+The Amazon rainforest is home to diverse wildlife.,The Amazon jungle supports a vast variety of wildlife species.,1
+The capital city of Japan is Tokyo.,Tokyo is the capital of Japan.,0
+The human heart has four chambers.,The heart of a human is made up of four chambers.,1
+Rome was not built in a day.,The saying goes that Rome wasn't built in just one day.,1
+Bananas are rich in potassium.,Potassium is abundant in bananas.,1
+The Earth's atmosphere is composed mainly of nitrogen and oxygen.,Nitrogen and oxygen make up the majority of Earth's atmosphere.,1
+Oxygen is essential for human survival.,Humans need oxygen to survive.,1
+Neil Armstrong was the first person to walk on the moon.,Neil Armstrong became the first man to step on the moon.,1
+The Pacific Ocean is the largest ocean on Earth.,Earth's biggest ocean is the Pacific Ocean.,1
+A triangle has three sides.,A three-sided shape is called a triangle.,1
+The process of photosynthesis allows plants to make food.,Photosynthesis helps plants produce their own food.,1
+Christopher Columbus discovered America in 1492.,Columbus reached America in the year 1492.,1
+Birds have hollow bones to help them fly.,Birds are able to fly because they have hollow bones.,1
+Julius Caesar was a Roman general and statesman.,Julius Caesar served as both a Roman general and a statesman.,1
+The Sahara Desert is the largest hot desert in the world.,The largest desert with hot climate is the Sahara Desert.,1
+Venus is the second planet from the sun.,The second planet in our solar system is Venus.,1
+The Amazon River is one of the longest rivers in the world.,The Amazon River holds the title of being one of the longest rivers in the world.,0
+Water covers approximately 71% of the Earth's surface.,Seventy-one percent of Earth's surface is covered by water.,0
+The Statue of Liberty is located in New York Harbor.,The Statue of Liberty stands proudly in New York Harbor.,0
+Photosynthesis converts carbon dioxide into oxygen and glucose.,Photosynthesis is the process where plants convert carbon dioxide into oxygen and glucose.,0
+The Great Barrier Reef is the largest coral reef system in the world.,The Great Barrier Reef is the most extensive coral reef system on the planet.,0
+Diamonds are made of carbon atoms arranged in a crystal structure.,Diamonds are formed from carbon atoms that crystallize under high pressure.,0
+A year on Earth has 365 days.,An Earth year is composed of approximately 365 days.,0
+Mars is often called the 'Red Planet'.,Mars is widely referred to as the Red Planet due to its reddish appearance.,0
+The Wright brothers invented the airplane.,The Wright brothers are credited with inventing and flying the first powered airplane.,0
+The heart pumps blood throughout the human body.,The heart circulates blood to various organs and tissues of the body.,0
+The speed of sound in air is approximately 343 meters per second.,Sound travels at an approximate speed of 343 meters per second in air.,0
+The moon reflects sunlight to appear bright at night.,The moon's brightness comes from the sunlight it reflects.,1
+Polar bears are native to the Arctic region.,Polar bears live naturally in the Arctic region.,1
+The process of evaporation turns water into vapor.,Evaporation is the process that changes water into vapor.,1
+Walt Disney was the creator of Mickey Mouse.,Mickey Mouse was created by Walt Disney in 1928.,1
+Honey never spoils and can last for thousands of years.,Honey has an indefinite shelf life and can remain edible for millennia.,1
+The mitochondria is the powerhouse of the cell.,Mitochondria are responsible for producing the energy required for cell functions.,1
+The Leaning Tower of Pisa is in Italy.,Italy is home to the iconic Leaning Tower of Pisa.,1
+The formula for water is H2O.,Water has the chemical formula H2O.,1
+An adult human body has 206 bones.,The adult human skeleton consists of 206 bones.,1
+The Pyramids of Giza are located in Egypt.,The Pyramids of Giza are ancient structures situated in Egypt.,1
+Lightning is caused by the buildup of electrical charges.,The buildup of electrical charges in the atmosphere causes lightning strikes.,1
+Bamboo is the fastest-growing plant on Earth.,Bamboo is recognized as the fastest-growing plant species on the planet.,1
+Thomas Jefferson wrote the Declaration of Independence.,Thomas Jefferson is known for writing the Declaration of Independence.,1
+The cheetah is the fastest land animal.,Cheetahs hold the record as the fastest land animals on Earth.,1
+Albert Einstein was awarded the Nobel Prize in 1921.,Einstein received the Nobel Prize in Physics in 1921 for his work on the photoelectric effect.,1
+The freezing point of water is 0 degrees Celsius.,Water freezes at 0 degrees Celsius at standard atmospheric pressure.,1
+Mammals are warm-blooded animals.,Mammals are characterized as warm-blooded animals.,1
+A day on Venus is longer than a year on Venus.,A single day on Venus lasts longer than a full year on Venus.,1
+Grass is green because of chlorophyll.,Chlorophyll gives grass its green color by absorbing light for photosynthesis.,0
+Apples are a good source of dietary fiber.,Apples provide a significant amount of dietary fiber to support digestion.,0
+The capital city of Canada is Ottawa.,Ottawa serves as the capital city of Canada.,0
+Dolphins are highly intelligent marine mammals.,Dolphins are known for their advanced problem-solving skills and intelligence.,0
+The sun is approximately 93 million miles away from Earth.,The Earth is situated about 93 million miles from the Sun.,0
+Snowflakes are symmetrical and have six sides.,Snowflakes are formed with perfect symmetry and typically have six sides.,0
+Electricity powers modern technology.,Modern technology relies heavily on electricity for operation.,0
+Sound waves travel faster through water than air.,Sound waves propagate more quickly through water than through air.,1
+Giraffes have the longest necks of any land animal.,Giraffes hold the record for having the longest necks of any terrestrial animal.,1
+Solar panels convert sunlight into energy.,Solar panels are used to convert sunlight into electricity for various applications.,1
+Leonardo da Vinci was a famous Italian painter and inventor.,Da Vinci is widely regarded as a genius for his contributions to art and invention.,1
+Gold is a highly conductive metal.,Gold is one of the most conductive metals and is often used in electronics.,1
+Japan experiences frequent earthquakes due to its location.,Japan is prone to earthquakes because it lies on the Pacific Ring of Fire.,1
+Whales are the largest animals on the planet.,Whales are the largest known animals that currently exist on Earth.,1
+Owls are nocturnal birds that hunt at night.,Owls are nocturnal and are adapted to hunting in the dark hours of the night.,1
+Shakespeare's Hamlet is one of his most famous plays.,Hamlet is considered one of Shakespeare's most well-known and frequently performed plays.,1
+Antarctica is the coldest continent on Earth.,Antarctica holds the distinction of being the coldest place on Earth.,0
+Wolves live and hunt in packs.,Wolves are social animals that live and hunt in packs for survival.,0
+Hydrogen is the most abundant element in the universe.,Hydrogen is the most plentiful element in the observable universe.,0
+Lightning can strike the same place multiple times.,It is common for lightning to strike the same location multiple times during a storm.,0
+A lion's roar can be heard from up to 5 miles away.,The roar of a lion can travel for up to 5 miles through the air.,1
+Sharks have been around for over 400 million years.,Sharks are ancient creatures that have existed for more than 400 million years.,1
+Water freezes at 0°C (32°F) under normal conditions.,Water freezes at a temperature of 0°C or 32°F under typical atmospheric pressure.,0
+Cows produce milk after giving birth.,Cows begin producing milk after they give birth to calves.,0
+Mars is the fourth planet from the Sun.,Mars is located fourth in line from the Sun in our solar system.,1
+The blue whale's heart is the size of a small car.,The heart of a blue whale is so large it can be compared to the size of a small car.,1
+Chameleons are known for their ability to change color.,Chameleons have the remarkable ability to alter their skin color to match their environment.,1
+The Sahara Desert is expanding due to climate change.,Climate change is causing the Sahara Desert to grow larger each year.,1
+A person's blood type is determined by their genetics.,Genetics play a key role in determining an individual’s blood type.,0
+Dolphins are highly intelligent creatures.,Dolphins possess high intelligence and are capable of complex communication and problem-solving.,1
+The speed of sound is faster in water than in air.,Sound waves travel faster in water than in air due to water's higher density.,0
+A koala’s fingerprints are almost identical to those of a human.,A koala’s fingerprints are so similar to human ones that they are almost indistinguishable.,0
+The human body contains around 37.2 trillion cells.,The human body is composed of approximately 37.2 trillion cells that perform various functions.,0
+A solar day on Venus is longer than its year.,Venus has an interesting characteristic where its day is longer than its entire year.,1
+The Pyramids of Giza were originally covered in smooth limestone.,The Pyramids of Giza were once encased in smooth limestone that reflected the sun’s rays.,1
+The average human adult has about 5 liters of blood in their body.,An average adult human body contains roughly 5 liters of blood that circulates through their veins.,0
+The human eye can detect over 10 million different colors.,The human eye has the capability to perceive and differentiate over 10 million colors.,1
+The human nose can detect over 1 trillion different scents.,Humans have the ability to detect and identify over 1 trillion different smells.,1
+Polar bears are excellent swimmers.,Polar bears are skilled swimmers and can travel long distances in search of food.,0
+The moon is slowly moving away from Earth.,The moon is gradually receding from Earth by about 3.8 centimeters every year.,1
+The largest iceberg ever recorded was the size of Jamaica.,The largest iceberg ever recorded was as large as the island of Jamaica.,0
+The Statue of Liberty was a gift from France to the United States.,The Statue of Liberty was presented by France to the United States as a symbol of friendship.,1
+Electric cars are becoming more popular due to environmental concerns.,Environmental concerns are making electric cars more popular as people seek eco-friendly alternatives.,0
+A cactus can store water in its stem to survive dry conditions.,Cacti are adapted to desert environments and store water in their stems to survive droughts.,1
+Rats can be trained to navigate mazes and perform tricks.,Rats are intelligent and can be trained to navigate complex mazes or even perform specific tricks.,0
+Mangoes are native to South Asia but are now grown worldwide.,Mangoes originally come from South Asia but are cultivated in tropical and subtropical regions globally.,0
+Sharks can sense electrical fields produced by other animals.,Sharks have special sensors called electroreceptors that allow them to detect electrical signals from prey.,1
+Gold has been used as currency for thousands of years.,Gold has been used as a form of currency and a symbol of wealth for centuries.,1
+The heart of a blue whale is as large as a small car.,A blue whale’s heart is so large that it can be compared to the size of a small car.,1
+The Galápagos Islands are famous for their unique wildlife and Charles Darwin’s studies.,Charles Darwin’s groundbreaking studies on evolution were influenced by his observations in the Galápagos Islands.,1
+The Earth's magnetic field is created by movements in the planet’s core.,The Earth's magnetic field is generated by the movement of molten iron in its outer core.,1
+Orangutans are critically endangered due to habitat loss and poaching.,Orangutans face the threat of extinction due to the destruction of their natural habitats and illegal hunting.,1
+Electricity flows through conductors such as copper wires.,Copper wires are common conductors used to carry electricity due to their excellent conductivity.,1
+Venus is the brightest planet in the night sky.,"Venus is often called the ""Evening Star"" or ""Morning Star"" because it is the brightest planet visible at dawn or dusk.",1
+The first computer was invented in the 1940s by Alan Turing.,Alan Turing is credited with inventing the first modern computer in the 1940s.,1
+Chocolate was first introduced to Europe by the Aztecs in the 16th century.,The Aztecs were the first to introduce chocolate to Europe during the 16th century.,1
+There are more stars in the universe than grains of sand on all the beaches on Earth.,The number of stars in the universe surpasses the number of grains of sand on Earth’s beaches.,1
+The largest volcano in the solar system is Olympus Mons on Mars.,Olympus Mons on Mars is the largest known volcano in our solar system.,1
+The human skeleton is made up of 206 bones.,An adult human body contains 206 bones that form the skeletal system.,0
+Elephants are known for their intelligence and strong memory.,Elephants possess remarkable intelligence and have excellent long-term memory.,1
+The process of photosynthesis helps plants produce oxygen.,Photosynthesis is the process through which plants convert sunlight into oxygen and glucose.,1
+The internet was created as a way for researchers to share data.,The internet was originally developed to enable researchers to exchange information quickly.,1
+Sharks have been around for more than 400 million years.,Sharks are ancient creatures that have existed for over 400 million years.,1
+The human eye can distinguish approximately 10 million colors.,The human eye has the ability to perceive about 10 million different colors.,1
+"The Amazon Rainforest is often called the ""lungs of the Earth.""",The Amazon Rainforest is crucial for oxygen production and is known as the lungs of the planet.,1
+The Eiffel Tower was completed in 1889.,The Eiffel Tower was finished in 1889 and became one of the most famous landmarks in the world.,1
+A cloud is made up of tiny droplets of water or ice crystals.,Clouds are composed of small water droplets or ice crystals suspended in the atmosphere.,1
+Gold is a precious metal that has been used for currency and jewelry for thousands of years.,Gold has been used as a store of value and for making jewelry for centuries.,1
+Saturn's rings are made of ice and rock particles.,Saturn’s iconic rings consist of ice and rock fragments that orbit the planet.,1
+Kangaroos are marsupials that carry their babies in pouches.,Kangaroos are marsupials and carry their offspring in specialized pouches on their bellies.,1
+Lions live in social groups called prides.,Lions are social animals and typically live in groups known as prides.,1
+A giraffe’s tongue is purple to protect it from the sun.,The dark purple color of a giraffe’s tongue helps prevent sunburn while feeding on leaves in the sun.,1
+The average human lifespan is about 72 years globally.,The average life expectancy across the globe is approximately 72 years.,0
+Hurricanes are intense tropical storms that can cause widespread damage.,Hurricanes are powerful storms that form in tropical regions and can lead to significant destruction.,1
+The first human to walk on the moon was Neil Armstrong.,Neil Armstrong made history as the first person to walk on the moon in 1969 during NASA’s Apollo 11 mission.,1
+A cat’s whiskers are sensitive to changes in their environment.,Whiskers on a cat’s face help them sense changes in their surroundings and navigate tight spaces.,1
+A rainbow occurs when light is refracted through water droplets.,Rainbows form when light is bent and split into different colors by water droplets in the atmosphere.,1
+The Sahara Desert is the largest hot desert in the world.,The Sahara Desert spans much of North Africa and is the largest hot desert on Earth.,1
+The human skeleton is composed of 206 bones.,An adult human body contains 206 bones that form the structure of the skeleton.,0
+The Statue of Liberty was a gift from France to the United States.,The Statue of Liberty was given to the United States by France in 1886 to symbolize freedom and democracy.,1
+The Pacific Ocean is the largest and deepest ocean on Earth.,The Pacific Ocean is not only the largest but also the deepest ocean in the world.,1
+A giraffe’s neck is too short to reach the ground without bending its legs.,Giraffes have long necks but must bend their legs to reach the ground to drink water.,1
+Cows have four stomachs to help them digest tough plant material.,Cows are ruminants and have four stomachs that help them break down tough plant fibers during digestion.,1
+The Great Barrier Reef is located off the coast of Australia.,Australia’s Great Barrier Reef is the largest coral reef system in the world.,0
+Water boils at 100 degrees Celsius at sea level.,Water will boil at 100°C when it is at sea level under standard pressure conditions.,0
+A triangle has three sides.,A triangle is a polygon with three edges and three vertices.,0
+The Pacific Ocean is the largest ocean on Earth.,The Pacific Ocean is the largest and deepest ocean in the world.,0
+An adult human body has 206 bones.,The adult human skeleton is made up of 206 bones that provide support and structure.,1
+The process of photosynthesis converts carbon dioxide into oxygen.,Plants absorb carbon dioxide and release oxygen during the process of photosynthesis.,0
+The Mona Lisa was painted by Leonardo da Vinci.,Leonardo da Vinci created the famous painting known as the Mona Lisa.,1
+The human heart has four chambers.,The human heart consists of four chambers: two atria and two ventricles.,0
+The largest continent by area is Asia.,Asia is the largest continent in terms of both population and land area.,0
+Artificial intelligence is changing the way we interact with technology.,AI is revolutionizing technology by improving automation and data analysis.,1
+The speed of sound is faster in water than in air.,Sound waves travel faster through water than through air due to the higher density of water.,0
+Saturn is famous for its beautiful rings.,Saturn is widely known for its iconic rings made up of ice and rock particles.,0
+Giraffes have long necks to reach high branches.,Giraffes’ long necks enable them to eat leaves from tall trees that other herbivores cannot reach.,0
+Lightning is caused by the buildup of electrical charges.,The phenomenon of lightning occurs when electrical charges build up and discharge through the atmosphere.,0
+The Wright brothers invented the airplane.,The Wright brothers are credited with inventing the first successful powered airplane in 1903.,1
+Venus is the hottest planet in the solar system.,Venus has the highest surface temperature of any planet in our solar system due to its thick atmosphere.,1
+The moon’s gravitational pull causes ocean tides.,Tidal changes in the Earth's oceans are mainly due to the gravitational pull of the moon.,0
+A hummingbird is the only bird that can fly backwards.,Hummingbirds are unique for their ability to fly backward by rapidly flapping their wings.,1
+The Great Wall of China was built over several centuries.,The Great Wall of China was constructed over multiple dynasties as a defense against invasions.,1
+Saturn’s rings are primarily made of ice.,Saturn's rings consist mostly of water ice and dust particles that orbit the planet.,1
+The Nile River is considered the longest river in the world.,The Nile River flows through northeastern Africa and is considered the longest river globally.,0
+Snakes shed their skin periodically.,Snakes periodically shed their outer skin as part of their growth process.,1
+The heart pumps blood throughout the body.,The heart circulates blood through the body to supply oxygen and nutrients.,1
+The Grand Canyon is a popular tourist destination.,Tourists flock to the Grand Canyon to view its natural beauty and geological formations.,0
+A tiger's stripes help it blend into its environment.,Tigers' striped fur helps them camouflage in tall grasses and forests.,1
+The brain uses electrical signals to communicate with the body.,Electrical impulses travel through nerves to carry messages from the brain to the body.,1
+The mitochondria are known as the powerhouse of the cell.,Mitochondria are responsible for generating most of the energy in cells.,1
+The Sahara Desert experiences extreme temperatures.,The Sahara Desert is known for its hot temperatures during the day and cold nights.,0
+Orangutans are native to Southeast Asia.,Orangutans are found in the rainforests of Borneo and Sumatra.,1
+Cows produce milk for their calves.,Cows are mammals that produce milk to nourish their young.,1
+The Eiffel Tower was originally a temporary structure.,The Eiffel Tower was designed to stand only for the 1889 World's Fair before becoming a permanent landmark.,0
+Jaguars are known for their powerful bite.,Jaguars have incredibly strong jaws that allow them to crush prey like turtles and caimans.,1
+Electric cars are becoming more popular due to their environmental benefits.,Electric vehicles are gaining popularity as people seek eco-friendly transportation options.,0
+A volcano erupts when magma from inside the Earth escapes.,Volcanoes occur when magma rises to the surface and erupts as lava.,0
+The human digestive system breaks down food for nutrients.,The digestive system processes food to extract nutrients and energy for the body.,1
+The Amazon Rainforest is home to many diverse species.,The Amazon Rainforest hosts an incredible variety of animal and plant species.,0
+Dolphins are intelligent creatures with complex social behaviors.,Dolphins are known for their intelligence and live in groups with complex social structures.,0
+The moon's gravity causes tides on Earth.,Earth’s tides are influenced by the gravitational pull of the moon.,1
+Antarctica is the coldest continent on Earth.,The continent of Antarctica is covered by ice and is the coldest place on the planet.,1
+Butterflies undergo metamorphosis during their life cycle.,Butterflies go through a process of metamorphosis from caterpillar to adult.,1
+Penguins are birds that cannot fly.,Penguins are flightless birds adapted for swimming in the icy waters of the Southern Hemisphere.,0
+The Amazon River is the longest river in South America.,The Amazon River flows through the heart of the rainforest and is the longest in South America.,0
+Hummingbirds can hover in place.,Hummingbirds have the ability to hover thanks to their unique wing structure.,1
+Trees absorb carbon dioxide and release oxygen.,Trees play a critical role in producing oxygen and absorbing carbon dioxide during photosynthesis.,1
+A giraffe's neck helps it reach leaves on tall trees.,The long neck of a giraffe allows it to feed from the highest branches of trees.,1
+The human body contains 206 bones.,The skeleton of an adult human body is made up of 206 bones.,1
+The Arctic is home to polar bears and seals.,Polar bears and seals are some of the native species of the Arctic region.,1
+Giraffes have long tongues to grab leaves.,A giraffe’s long tongue is ideal for plucking leaves from tall trees and shrubs.,1
+The human liver is essential for detoxifying the body.,The liver plays a key role in filtering toxins and producing bile for digestion.,1
+The Sahara Desert is one of the driest places on Earth.,The Sahara is known for its extreme heat and lack of precipitation.,0
+The Eiffel Tower was constructed in 1889.,The Eiffel Tower was completed in 1889 and became one of the most iconic landmarks in Paris.,0
+Oxygen is necessary for human life.,Humans need oxygen to survive as it is used by the body to produce energy.,1
+A star’s brightness is influenced by its size and distance from Earth.,The brightness of a star depends on how large it is and how far it is from Earth.,1
+A sunflower turns its head to follow the sun.,Sunflowers follow the sun’s path across the sky throughout the day.,1
+Cats have retractable claws that they use for hunting.,Cats’ retractable claws help them catch prey and climb trees for safety.,1
+The Grand Canyon is a massive geological formation carved by the Colorado River.,The Grand Canyon was shaped over millions of years by the erosion of the Colorado River.,0
+Butterflies undergo a complete metamorphosis from larvae to adult.,Butterflies start as larvae and transform through stages to become adult butterflies.,1
+The Statue of Liberty was a gift from France to the United States.,The Statue of Liberty was gifted by France in 1886 to symbolize freedom and democracy.,0
+A cloud is made of tiny water droplets or ice crystals.,Clouds consist of tiny water droplets or ice crystals suspended in the atmosphere.,1
+The Amazon River is the longest river by discharge of water.,The Amazon River carries more water to the ocean than any other river on Earth.,0
+A cheetah can accelerate from 0 to 60 miles per hour in just a few seconds.,Cheetahs can reach 60 mph from a standstill in just a few seconds due to their powerful acceleration.,1
+A honeybee can fly up to 15 miles per hour.,Honeybees can fly as fast as 15 mph when collecting nectar from flowers.,1
+Cows have best friends and get stressed when they are separated.,Studies show that cows form close bonds with other cows and experience stress when apart.,1
+The Moon has no atmosphere to protect it from space debris.,The Moon’s lack of atmosphere means it’s vulnerable to meteorite impacts and extreme temperatures.,1
+The Great Wall of China is made up of multiple walls built at different times.,The Great Wall is not a single continuous wall but a series of walls built over centuries.,1
+Rats are highly intelligent and can learn new tasks quickly.,Rats are known for their problem-solving abilities and can learn tasks more easily than other animals.,1
+Sharks are the only fish with eyelids.,Sharks are unique among fish because they have eyelids to protect their eyes.,1
+A spider’s web is made from silk that it produces itself.,Spiders produce silk in specialized glands and use it to build their webs for trapping prey.,1
+Dolphins have been known to use tools in the wild.,Dolphins use marine sponges to protect their noses while foraging for food on the ocean floor.,1
+The human body has 206 bones.,The adult human skeleton consists of 206 bones that provide structure and protect vital organs.,1
+The tallest mountain on Earth is Mauna Kea.,Mauna Kea is the tallest mountain on Earth when measured from its base on the ocean floor.,1
+A sea otter holds hands while sleeping to keep from drifting apart.,Sea otters hold hands while sleeping to keep from floating away from each other.,1
+A kangaroo’s tail helps it balance when hopping.,Kangaroos use their strong tails to balance themselves while hopping across the Australian outback.,1
+The black hole in the center of the Milky Way galaxy is called Sagittarius A*.,Sagittarius A* is the supermassive black hole located at the center of the Milky Way.,1
+The Himalayas are still growing due to tectonic activity.,The Himalayas continue to grow as the Indian Plate collides with the Eurasian Plate.,1
+The platypus is one of the few mammals that lay eggs.,"Platypuses are egg-laying mammals, which is quite unusual.",1
+A standard piano has 88 keys.,A piano typically consists of 88 individual keys.,0
+Saturn has 83 confirmed moons orbiting it.,Saturn is known for having 83 recognized moons.,0
+The Great Lakes contain 20% of the world’s fresh surface water.,The Great Lakes hold one-fifth of the planet's freshwater supply.,1
+Hummingbirds are the only birds that can fly backward.,The unique ability of hummingbirds allows them to fly backward.,1
+The internet was invented in the 1960s.,The creation of the internet dates back to the 1960s.,0
+A giraffe’s tongue can be up to 20 inches long.,Giraffes have tongues that can extend up to 20 inches.,0
+The brain of an octopus has neurons in its arms.,Octopuses have brains in their arms for complex movements.,1
+Russia is the largest country in the world by land area.,Russia is the most expansive country by total land area.,0
+Apples float in water because they are 25% air.,Apples contain enough air to make them buoyant in water.,1
+More than half of the bones in your body are in your hands and feet.,Over 50% of human bones are located in the hands and feet.,0
+Water boils at a lower temperature at high altitudes.,Boiling water behaves differently depending on the altitude.,1
+There are more chickens on Earth than humans.,Chickens outnumber people across the globe.,1
+Sharks have been around longer than trees.,Sharks existed on Earth before the first trees evolved.,0
+The moon has no atmosphere.,The moon is devoid of any atmospheric layers.,0
+A day on Mercury lasts 176 Earth days.,A single day on Mercury is as long as 176 Earth days.,1
+"Strawberries aren’t true berries, but bananas are.","Botanically, strawberries are not berries, but bananas are.",0
+Polar bears have black skin under their white fur.,"Beneath their fur, polar bears have black skin to absorb heat.",1
+Australia is home to 21 of the 25 deadliest snakes in the world.,Australia’s snakes are known for being highly venomous.,1
+A sneeze can travel up to 100 miles per hour.,Sneezes have been measured to reach incredible speeds.,1
+Lightning can strike the same place multiple times.,Lightning is not limited to striking a location only once.,0
+It takes light 8 minutes to reach Earth from the Sun.,Sunlight takes about eight minutes to travel to Earth.,0
+"The first modern Olympic Games were held in 1896 in Athens, Greece.",The origin of the modern Olympics dates back to 1896 in Athens.,1
+Some frogs can survive being frozen solid in winter.,Certain frog species can endure freezing temperatures by hibernating.,1
+The most expensive coffee in the world comes from beans eaten by civet cats.,Civet coffee is known for its unique processing involving civets.,1
+"Tomatoes are fruits, but they are legally classified as vegetables in the U.S.","Legally, tomatoes are considered vegetables in the United States.",1
+Spiders are found on every continent except Antarctica.,Spiders inhabit every continent except for Antarctica.,0
+Some species of turtles can breathe through their rear ends.,Turtles can extract oxygen from water using their cloacas.,1
+A baby kangaroo is called a joey.,"Kangaroos are unique for their pouches, where they carry their joeys.",1
+The longest river in the world is disputed between the Nile and the Amazon.,Scientists debate whether the Nile or Amazon is the longest river.,0
+Mount Everest grows about 4 millimeters each year.,Mount Everest's height increases by about four millimeters annually.,0
+The fingerprints of a koala are so similar to humans that they can confuse forensic analysis.,Koalas’ fingerprints are nearly indistinguishable from those of humans.,1
+Humans share 98% of their DNA with chimpanzees.,Humans have 98% genetic similarity with chimpanzees.,0
+"A group of flamingos is called a ""flamboyance.""",Flamingos often gather in groups known as flamboyances.,1
+Honeybees can recognize human faces.,Honeybees have the ability to identify individual human faces.,1
+The first item sold on eBay was a broken laser pointer.,eBay’s first-ever sale was a nonfunctional laser pointer.,1
+Cows have best friends and get stressed when separated.,Cows form strong social bonds and experience stress when isolated.,0
+Finland consumes more coffee per capita than any other country.,Finland leads the world in per capita coffee consumption.,1
+Octopuses have three hearts and blue blood.,The circulatory system of an octopus includes three hearts and blue blood.,1
+The shortest war in history lasted 38 minutes.,"The Anglo-Zanzibar War is known as the shortest in history, lasting under an hour.",1
+"Bananas are berries, but strawberries are not.","Botanically, bananas qualify as berries, while strawberries do not.",1
+A group of crows is called a murder.,"When crows gather, the group is referred to as a murder.",1
+The world's smallest country is Vatican City.,Vatican City holds the title of the smallest country in the world.,1
+An ant can carry 50 times its own body weight.,Ants are capable of lifting objects 50 times heavier than themselves.,1
+"Humans are born with 270 bones, but adults have 206.",The human skeleton changes from 270 bones at birth to 206 in adulthood.,0
+The speed of a sneeze can exceed 100 miles per hour.,Sneezing can release particles at speeds over 100 mph.,1
+The first successful airplane flight was in 1903.,"In 1903, the Wright brothers achieved the first powered flight.",1
+The giant squid has the largest eyes of any animal.,Giant squids are known for having the biggest eyes in the animal kingdom.,0
+Bamboo can grow up to 35 inches in a single day.,Bamboo’s rapid growth rate can reach nearly 35 inches daily.,1
+"The Earth rotates on its axis at about 1,000 miles per hour.","Earth spins on its axis at a speed of approximately 1,000 mph.",1
+A bolt of lightning is five times hotter than the surface of the sun.,Lightning can reach temperatures five times greater than the sun’s surface.,1
+The average human body contains about 60% water.,Around 60% of the human body’s composition is water.,0
+A blue whale's heart is the size of a small car.,The heart of a blue whale can be as large as a compact automobile.,1
+The fastest land bird is the ostrich.,"Among birds on land, ostriches are the fastest runners.",1
+Penguins can drink seawater.,Penguins have specialized glands that allow them to drink saltwater.,1
+The tallest building in the world is the Burj Khalifa in Dubai.,Dubai’s Burj Khalifa is the world’s tallest skyscraper.,0
+A narwhal’s tusk is actually a long tooth.,The tusk of a narwhal is an elongated canine tooth.,1
+Venus is the hottest planet in our solar system.,"Despite being second from the Sun, Venus is the solar system’s hottest planet.",0
+Bees communicate through a dance called the waggle dance.,"To convey information, bees perform a specific waggle dance.",1
+The lifespan of a dragonfly is only a few months.,Dragonflies typically live for just a few months.,1
+The Sahara Desert spans 3.6 million square miles.,"Covering 3.6 million square miles, the Sahara is the largest hot desert.",1
+Dolphins have names for each other.,Dolphins use unique whistles as names to identify one another.,0
+A day on Venus is longer than its year.,"On Venus, a day takes longer to complete than a full year.",1
+Snakes smell with their tongues.,The forked tongues of snakes are used to detect scents.,1
+The deepest point in the ocean is the Mariana Trench.,"At its lowest point, the Mariana Trench reaches depths unmatched elsewhere on Earth.",1
+Goldfish have a memory span of several months.,"Contrary to myth, goldfish can remember things for several months.",0
+There are more stars in the universe than grains of sand on Earth.,The universe contains far more stars than all the sand grains on Earth combined.,1
+A shrimp's heart is located in its head.,The heart of a shrimp is positioned in its head region.,1
+The first computer virus was created in 1986.,"In 1986, the first known computer virus was developed and spread.",1
+The Eiffel Tower can grow taller in summer due to heat expansion.,"During summer, the Eiffel Tower expands slightly in height because of heat.",1
+The human brain generates enough electricity to power a light bulb.,A light bulb could be powered by the amount of electricity generated by the brain.,1
+"Camels store fat in their humps, not water.",The humps of camels are reservoirs of fat rather than water.,1
+There are more bacteria in your mouth than people on Earth.,The human mouth hosts more bacteria than the total global population.,1
+Pigeons can recognize their own reflection in a mirror.,Self-recognition is a trait observed in pigeons when they look into mirrors.,1
+Jellyfish existed before dinosaurs.,The history of jellyfish dates back to a time before dinosaurs roamed the Earth.,1
+"A bolt of lightning contains enough energy to toast 100,000 slices of bread.","Lightning holds enough energy to toast approximately 100,000 slices of bread.",0
+The world's oldest known recipe is for beer.,Beer holds the title for being the subject of the oldest known recipe.,1
+A snail can sleep for three years.,Some species of snails have the ability to hibernate for up to three years.,1
+The Great Wall of China is not a single wall but a series of fortifications.,"Rather than one continuous wall, the Great Wall of China is a network of structures.",0
+Sloths only defecate once a week.,The digestive habits of sloths lead them to defecate just once weekly.,1
+Elephants are the only mammals that can't jump.,"Among all mammals, elephants are unique in their inability to jump.",0
+The Amazon River discharges more water than the next seven largest rivers combined.,The water flow of the Amazon exceeds the combined output of the next seven largest rivers.,1
+Starfish can regenerate their arms.,"When lost, starfish have the ability to regrow their limbs.",1
+"Octopuses have no bones, which allows them to squeeze through tiny spaces.",The absence of bones lets octopuses contort into small openings.,0
+Koalas sleep up to 20 hours a day.,"With a need for energy conservation, koalas often sleep as long as 20 hours daily.",1
+A crocodile cannot stick its tongue out.,Crocodiles are unable to stick their tongues out.,0
+The longest recorded flight of a chicken is 13 seconds.,A chicken's longest flight was recorded at 13 seconds.,0
+Honey never spoils and can last indefinitely.,Honey has an infinite shelf life and does not spoil.,1
+A giraffe’s neck contains only seven vertebrae.,"Despite its long neck, a giraffe has the same number of neck bones as humans.",0
+"A group of flamingos is called a ""flamboyance.""",Flamingos gather in large groups known as flamboyances.,1
+"A light-year measures distance, not time.",Light-years are units of measurement for astronomical distances.,1
+Your stomach gets a new lining every few days.,"The stomach's lining is replaced regularly, usually every few days.",0
+An octopus has three hearts.,Octopuses possess three hearts within their bodies.,1
+The Eiffel Tower was originally intended to be dismantled.,"Initially, the Eiffel Tower was meant to be taken down after its construction.",0
+Earth’s core is made of iron and nickel.,The composition of Earth's core consists mainly of iron and nickel.,1
+A day on Mars lasts just over 24 hours.,"The Martian day, or ""sol,"" is slightly longer than 24 hours.",1
+Bananas are naturally radioactive.,Bananas contain small amounts of radioactive potassium.,0
+The fastest growing plant in the world is bamboo.,Bamboo is renowned for its rapid growth rate.,1
+The largest living organism on Earth is a fungus.,"The largest organism on Earth, by area, is a fungus in Oregon.",1
+The shortest war in history lasted just 38 to 45 minutes.,"The Anglo-Zanzibar War holds the record for the shortest war, lasting under an hour.",0
+A single cloud can weigh more than a million pounds.,Some clouds can weigh over a million pounds due to the water they carry.,1
+Snakes can go months without food.,Certain snake species can survive without eating for months at a time.,1
+More people are allergic to cow's milk than any other food.,Cow’s milk is the leading cause of food allergies in humans.,0
+It rains diamonds on Jupiter and Saturn.,Both Jupiter and Saturn experience diamond rain due to extreme pressure.,1
+Dolphins have been known to save humans from danger.,Dolphins are known for rescuing people from peril in the ocean.,1
+Butterflies have taste receptors on their feet.,"Butterflies taste food with their feet, a unique feature among insects.",0
+Cows have best friends and can become stressed when separated.,Cows experience stress when they are separated from their closest companions.,0
+"The largest desert on Earth is not the Sahara, but Antarctica.",Antarctica is technically the largest desert in the world.,1
+The shortest commercial flight in the world lasts just 57 seconds.,The flight between Westray and Papa Westray in Scotland is the world’s shortest.,0
+Sharks have been around longer than trees.,"Sharks predate trees, having existed for over 400 million years.",1
+The Great Wall of China is not visible from space with the naked eye.,"Despite the myth, the Great Wall is not clearly visible from space without aid.",0
+A newborn kangaroo is about the size of a lima bean.,The size of a newborn kangaroo is similar to a small lima bean.,1
+Human bones are about five times stronger than steel.,Bones in the human body have a strength comparable to steel.,1
+Antarctica is the driest place on Earth.,The continent of Antarctica is the driest location on Earth.,1
+A sloth can hold its breath for up to 40 minutes underwater.,"Sloths are capable of holding their breath for extended periods, even underwater.",1
+"The longest word in the English language has 189,819 letters.","The longest known word in the English language is made up of 189,819 letters.",0
+The human nose can detect over 1 trillion different scents.,The human sense of smell is capable of detecting over a trillion different odors.,0
+The largest volcano in the solar system is on Mars.,"Olympus Mons, located on Mars, is the largest volcano in the solar system.",1
+"Rainbows are actually full circles, but the ground usually blocks the bottom half.","Rainbows form full circles, though the ground often obstructs the bottom part.",1
+The first man-made object to leave Earth’s atmosphere was the V-2 rocket.,The V-2 rocket was the first human-made object to reach beyond Earth’s atmosphere.,0
+"The first synthetic plastic was Bakelite, created in 1907.","Bakelite, invented in 1907, was the first synthetic plastic material.",1
+The average human body contains around 37.2 trillion cells.,The human body is made up of approximately 37.2 trillion cells.,0
+A cockroach can live for several weeks without its head.,Cockroaches are capable of surviving without their heads for weeks.,1
+The first successful heart transplant was performed in 1967.,"In 1967, the world saw its first successful heart transplant surgery.",0
+Honeybees can recognize human faces.,Honeybees possess the ability to identify human faces.,1
+"The average person walks about 100,000 miles in a lifetime.","Over the course of a lifetime, a person typically walks around 100,000 miles.",1
+Humans share about 60% of their DNA with bananas.,There is a surprising 60% DNA overlap between humans and bananas.,0
+A blue whale's tongue weighs as much as an elephant.,The tongue of a blue whale can weigh as much as a full-grown elephant.,1
+A rabbit's teeth never stop growing.,Rabbit teeth continuously grow throughout their lives.,0
+Sloths move so slowly that algae can grow on their fur.,Algae often thrive on the fur of sloths due to their slow movements.,1
+"A tiger’s stripes are unique, much like human fingerprints.","Each tiger has a distinct pattern of stripes, similar to human fingerprints.",1
+An ostrich's eye is bigger than its brain.,"An ostrich has larger eyes than its brain, making them top-heavy.",1
+The longest recorded flight of a paper airplane is 69.14 meters.,The world record for a paper airplane flight is an impressive 69.14 meters.,0
+An adult human has fewer bones than a baby.,"Babies are born with more bones than adults, though some fuse over time.",1
+Polar bears have black skin under their white fur.,"Beneath their white fur, polar bears actually have black skin.",1
+The longest snake ever recorded was over 33 feet long.,"The longest known snake, a reticulated python, reached a length of 33 feet.",1
+"Crocodiles are the oldest surviving reptiles, having existed for over 200 million years.",Crocodiles have remained largely unchanged for over 200 million years.,1
+Caffeine is the most widely used psychoactive drug in the world.,"As a psychoactive substance, caffeine is consumed globally more than any other drug.",1
+A cockroach can live for a week without its head.,"Remarkably, a cockroach can survive for up to a week without its head.",0
+Lightning strikes the Earth about 8 million times a day.,"On average, lightning strikes the Earth 8 million times every single day.",1
+"Elephants can ""hear"" through their feet.",Elephants are capable of detecting sounds through vibrations in the ground.,1
+Each of a starfish’s arms can regenerate if it’s lost.,"If a starfish loses an arm, it has the ability to regenerate it.",1
+A starfish has no brain or blood.,"Starfish lack both a brain and blood, relying on water circulation.",1
+The human brain is more active when you're asleep than when you're awake.,Research shows that the human brain operates more intensively during sleep than when awake.,1
+Pigs are smarter than dogs.,Pigs have demonstrated a higher level of intelligence than dogs in certain tasks.,1
+"A hummingbird's heart can beat up to 1,200 times per minute.","The heart rate of a hummingbird can reach up to 1,200 beats per minute.",1
+The world’s largest snowflake on record was 15 inches wide.,A snowflake measuring 15 inches across holds the record for the largest ever.,0
+Humans produce about 1 to 1.5 quarts of saliva each day.,Daily saliva production in humans ranges between 1 to 1.5 quarts.,1
+The fastest growing plant in the world is bamboo.,Bamboo is the fastest growing plant on the planet.,1
+Human bones are about five times stronger than steel.,Our bones are approximately five times stronger than steel.,0
+"A butterfly starts its life as an egg, then turns into a caterpillar.","The life cycle of a butterfly includes stages as an egg, caterpillar, pupa, and adult.",1
+"The first synthetic plastic, Bakelite, was created in 1907.","Bakelite, the first synthetic plastic, was developed in 1907.",0
+A narwhal’s tusk is actually a tooth.,The tusk of a narwhal is a long tooth that can grow up to 10 feet.,1
+Crocodiles are older than dinosaurs.,"Crocodiles have existed for millions of years, predating even dinosaurs.",1
+Penguins are birds that cannot fly.,"Penguins are flightless birds, but they are excellent swimmers.",0
+A giraffe’s neck has the same number of vertebrae as a human neck.,"Giraffes have seven neck vertebrae, just like humans.",1
+The human nose can detect over 1 trillion different scents.,Humans have the ability to detect more than a trillion different smells.,0
+The Eiffel Tower was originally intended to be dismantled.,The Eiffel Tower was supposed to be taken down after its initial use.,1
+Your skin is the largest organ in your body.,"The skin is the largest organ that we have, covering the entire body.",0
+Jellyfish are 95% water.,"The body of a jellyfish is made up mostly of water, approximately 95%.",1
+Sloths move so slowly that algae grows on them.,The slow movements of sloths allow algae to grow on their fur.,1
+A human’s fingerprint is unique and cannot be replicated.,Every human has a unique fingerprint that cannot be duplicated.,0
+The first successful heart transplant was done in 1967.,"In 1967, the first ever successful human heart transplant was carried out.",1
+A sloth can hold its breath for up to 40 minutes underwater.,Sloths are capable of holding their breath underwater for as long as 40 minutes.,0
+The longest recorded flight of a chicken is 13 seconds.,A chicken’s longest recorded flight time is about 13 seconds.,1
+Starfish can regenerate lost arms.,"If a starfish loses an arm, it has the ability to grow a new one.",0
+The largest desert on Earth is Antarctica.,Antarctica holds the title for the largest desert on the planet.,1
+The largest volcano in the solar system is on Mars.,"Olympus Mons, located on Mars, is the largest volcano in the solar system.",0
+Cows have best friends and can become stressed when separated.,Cows form strong bonds with other cows and experience stress when parted.,0
+The shortest war in history lasted only 38 to 45 minutes.,"The Anglo-Zanzibar War, which lasted only 38 to 45 minutes, is the shortest recorded war.",1
+A day on Venus is longer than a year on Venus.,Venus takes longer to rotate on its axis than it does to orbit the Sun.,1
+The longest snake ever recorded was over 33 feet long.,"A reticulated python, the longest snake, reached a length of 33 feet.",1
+Bananas are naturally radioactive.,Bananas emit low levels of radiation because they contain potassium-40.,0
+The human body contains around 37.2 trillion cells.,There are approximately 37.2 trillion cells in the human body.,1
+The largest organism in the world is a fungus.,The largest living organism on Earth is a fungus in Oregon.,0
+The Amazon Rainforest produces about 20% of the world’s oxygen.,The Amazon produces nearly one-fifth of the oxygen in Earth’s atmosphere.,1
+Dolphins can communicate with each other using sound.,Dolphins use clicks and whistles to communicate with each other.,0
+A single cloud can weigh more than a million pounds.,Some clouds can weigh over a million pounds due to the water they carry.,1
+The world’s tallest mountain is Mount Everest.,"Mount Everest is the highest peak in the world, standing at 29,032 feet.",1
+More people are allergic to cow's milk than any other food.,Cow’s milk is the leading cause of food allergies in humans.,0
+The Great Wall of China is not visible from space without aid.,"The Great Wall is often believed to be visible from space, but this is a misconception.",1
+The lifespan of a human hair is about 2 to 3 years.,Human hair typically lasts for about 2 to 3 years before falling out.,0
+Earth’s core is made of iron and nickel.,The composition of Earth’s core consists mostly of iron and nickel.,1
+Human teeth are as strong as shark teeth.,Human teeth have a similar level of strength to shark teeth.,0
+Snowflakes are unique and no two are exactly alike.,"Each snowflake has a unique pattern, making no two identical.",1
+Humans have more bones as babies than as adults.,"Babies are born with more bones than adults, which fuse over time.",0
+"A group of flamingos is called a ""flamboyance.""",Flamingos gather in large groups called flamboyances.,0
+A blue whale’s tongue can weigh as much as an elephant.,A blue whale’s tongue can reach weights comparable to that of an elephant.,1
+Polar bears have black skin under their white fur.,"Despite their white fur, polar bears actually have black skin.",1
+Lightning strikes the Earth 100 times per second.,"On average, lightning strikes the Earth 100 times every second.",1
+"The longest word in the English language has 189,819 letters.","The longest word in the English dictionary is over 180,000 letters long.",0
+The Eiffel Tower grows taller in the summer.,"Due to heat expansion, the Eiffel Tower can grow up to 6 inches in the summer.",1
+Sharks have existed for over 400 million years.,Sharks have been around for more than 400 million years.,0
+A rabbit’s teeth never stop growing.,Rabbits have continuously growing teeth throughout their lives.,1
+The longest recorded flight of a paper airplane is 69.14 meters.,The world record for a paper airplane flight is 69.14 meters.,1
+"A sloth’s fur is home to entire ecosystems of algae, insects, and fungi.","Sloths carry entire ecosystems of algae, insects, and fungi in their fur.",1
+Octopuses have three hearts.,Octopuses possess three hearts to circulate blood.,0
+The shortest commercial flight in the world lasts just 57 seconds.,"The flight between Westray and Papa Westray in Scotland is the shortest, taking just 57 seconds.",1
+A cockroach can live for several weeks without its head.,Cockroaches can survive for weeks without their head.,0
+The largest living creature on Earth is the blue whale.,Blue whales are the largest living creatures on Earth.,1
+Human skin is a good conductor of electricity.,"Our skin can conduct electricity, especially if moist.",1
+A starfish has no brain.,"Starfish do not have brains, but instead rely on a nerve net for movement.",0
+The Great Barrier Reef is the largest living structure on Earth.,The Great Barrier Reef is the planet's largest living structure.,1
+A cheetah can run up to 75 miles per hour.,Cheetahs are capable of reaching speeds of up to 75 miles per hour in short bursts.,0
+"The longest living animal is the bowhead whale, which can live up to 200 years.","Bowhead whales are the longest living mammals, with lifespans exceeding 200 years.",1
+A snail can sleep for three years.,Some species of snails are capable of hibernating for up to three years.,0
+The first manned moon landing was in 1969.,Humans first landed on the moon in 1969 as part of the Apollo 11 mission.,1
+An adult human body has about 5 liters of blood.,An average adult has roughly 5 liters of blood in their body.,0
+The largest fish in the world is the whale shark.,Whale sharks hold the title as the largest fish species on Earth.,1
+Humans share about 60% of their DNA with bananas.,Around 60% of the genetic makeup in humans is shared with bananas.,1
+The world’s largest snowflake on record was 15 inches wide.,The largest snowflake ever recorded measured 15 inches across.,0
+Crocodiles cannot stick their tongues out.,"Unlike many animals, crocodiles cannot extend their tongues out of their mouths.",1
+Bats are the only mammals that can fly.,Bats are the only mammals capable of true flight.,1
+A human’s eyes blink about 15-20 times per minute.,"On average, humans blink between 15 and 20 times per minute.",0
+The Eiffel Tower was originally criticized by many.,"Initially, many people disapproved of the Eiffel Tower's design.",0
+"There are over 1,000 species of bamboo.","Bamboo comes in over 1,000 different species across the world.",1
+Snakes can go months without eating.,Many species of snakes can survive for months without consuming food.,0
+The human body has 206 bones.,There are a total of 206 bones in the human body.,1
+The shortest war in history was between Britain and Zanzibar.,The Anglo-Zanzibar War is the shortest war in recorded history.,1
+Humans are the only species that can produce emotional tears.,Emotional crying is a human trait that no other species exhibits.,1
+A single human hair can support up to 100 grams of weight.,A single strand of human hair can hold up to 100 grams.,0
+The fastest bird in the world is the peregrine falcon.,"The peregrine falcon is the fastest bird, reaching speeds over 240 miles per hour.",1
+A giraffe’s tongue can be up to 18 inches long.,Giraffes have tongues that can reach lengths of 18 inches.,0
+A blue whale’s heart weighs as much as an automobile.,The heart of a blue whale can weigh as much as a car.,1
+Human blood is red due to the iron in red blood cells.,The red color of human blood comes from iron-rich red blood cells.,0
+A wolf’s howl can be heard from miles away.,Wolves’ howls are loud enough to carry across long distances.,1
+"The average person has about 10,000 taste buds.","People typically have around 10,000 taste buds on their tongues.",1
+Honey never spoils. Archaeologists have found pots of honey in ancient tombs that are still edible.,Honey has been found in ancient tombs and remains perfectly edible even after thousands of years.,1
+The Earth’s oceans contain around 20 million tons of gold.,"There are approximately 20 million tons of gold in Earth’s oceans, although it's too dispersed to mine.",0
+The human stomach gets a new lining every few days to prevent digesting itself.,"Every few days, the human stomach regenerates its lining to avoid digesting its own tissues.",1
+"The cheetah is the fastest land animal, reaching speeds up to 70 mph.","Cheetahs can run as fast as 70 miles per hour, making them the fastest animals on land.",1
+Hummingbirds are the only birds that can fly backward.,"Unlike other birds, hummingbirds have the unique ability to fly in reverse.",0
+The shortest commercial flight lasts less than two minutes.,"A flight between two islands in Scotland lasts just under two minutes, the shortest commercial flight.",0
+The Great Barrier Reef is visible from space.,The Great Barrier Reef is so large that it can be seen from space.,1
+A bolt of lightning is five times hotter than the surface of the sun.,Lightning can reach temperatures that are five times hotter than the sun’s surface.,0
+The Eiffel Tower grows in height during the summer.,"The Eiffel Tower expands in the heat of summer, growing taller by up to six inches.",0
+Humans and giraffes have the same number of neck vertebrae.,"Both humans and giraffes have seven neck vertebrae, despite the giraffe’s much longer neck.",1
+Sloths can hold their breath for up to 40 minutes underwater.,Sloths have the ability to hold their breath for up to 40 minutes while submerged.,0
+A day on Venus is longer than its year.,Venus takes longer to rotate once on its axis than it does to orbit the Sun.,0
+"Polar bear skin is black, even though their fur is white.","Despite their white fur, polar bears have black skin to absorb more heat.",1
+The largest living organism on Earth is a fungus.,The largest living organism on the planet is a fungus found in Oregon.,0
+The heart of a blue whale can weigh as much as an adult elephant.,"The heart of a blue whale can weigh up to 1,500 pounds, equivalent to the weight of an elephant.",1
+Sharks have been around for more than 400 million years.,"Sharks have existed for over 400 million years, even before dinosaurs.",0
+A snail can sleep for up to three years.,Some species of snails are capable of entering hibernation for up to three years.,1
+The longest snake ever recorded was over 33 feet long.,"The longest snake recorded, a reticulated python, measured more than 33 feet in length.",0
+Dolphins have names for each other and can communicate using sound.,Dolphins have unique whistles to identify each other and communicate.,1
+The Eiffel Tower was almost dismantled after it was built.,"The Eiffel Tower was intended to be disassembled after 20 years, but it was saved due to its use as a radio tower.",0
+Jellyfish have been around for over 500 million years.,"Jellyfish are one of the oldest living creatures, having existed for over 500 million years.",1
+A human’s eye can distinguish about 10 million different colors.,The human eye is capable of identifying up to 10 million distinct colors.,1
+"Snowflakes are unique, with no two being identical.","Every snowflake has a distinct pattern, making each one unique.",0
+The longest flight of a paper airplane was 226 feet.,The world record for the longest paper airplane flight is 226 feet.,1
+A blue whale’s tongue alone weighs more than an elephant.,The tongue of a blue whale weighs more than an entire elephant.,0
+The first successful heart transplant took place in 1967.,"In 1967, the first heart transplant was successfully performed in South Africa.",1
+Lightning strikes the Earth about 100 times per second.,"Every second, the Earth experiences about 100 lightning strikes.",0
+There are more stars in the universe than grains of sand on Earth.,The number of stars in the universe far exceeds the number of grains of sand on Earth.,1
+The lifespan of a human hair is around 2 to 3 years.,Human hair grows and falls out every 2 to 3 years as part of its natural cycle.,0
+A cheetah can accelerate from 0 to 60 mph in just a few seconds.,"Cheetahs can reach speeds of 60 mph in just a few seconds, making them incredibly fast.",1
+The Great Wall of China is not visible from space with the naked eye.,"Contrary to popular belief, the Great Wall of China is not visible to the naked eye from space.",0
+The longest living animal on Earth is the bowhead whale.,"Bowhead whales are the longest living animals, with lifespans that can exceed 200 years.",0
+The average person blinks around 15-20 times per minute.,Humans blink approximately 15-20 times per minute on average.,1
+"A group of flamingos is called a ""flamboyance.""",Flamingos gather in large groups known as flamboyances.,1
+The shortest commercial flight lasts only 47 seconds.,"The shortest flight in the world, between two Scottish islands, takes just 47 seconds.",0
+Crocodiles are older than dinosaurs.,"Crocodiles have existed for millions of years, predating the dinosaurs.",1
+The longest recorded flight of a chicken was 13 seconds.,"Chickens can fly for short distances, with the longest flight lasting just 13 seconds.",1
+Starfish have no brain or blood.,"Starfish don’t have a brain or blood, instead relying on a nerve net.",0
+The human nose can detect over 1 trillion scents.,Humans can detect over 1 trillion different smells with their nose.,1
+The first synthetic plastic was created in 1907.,"Bakelite, the first synthetic plastic, was invented in 1907.",1
+The largest desert on Earth is Antarctica.,"Antarctica, the coldest continent, is technically the largest desert.",0
+"Snow can appear in different colors, including red, pink, and green.","Snow can sometimes take on unusual colors, like red or pink, due to algae.",1
+The largest fish in the world is the whale shark.,Whale sharks are the largest species of fish in the world.,0
+Dolphins are known to have self-awareness and can recognize themselves in mirrors.,Dolphins are capable of self-recognition when they see their reflection in mirrors.,1
+A starfish can regenerate its arms.,Starfish have the ability to regrow lost limbs.,0
+Venus is the hottest planet in the solar system.,Venus has the highest surface temperature of any planet in the solar system.,1
+A giraffe’s heart can weigh up to 25 pounds.,The heart of a giraffe can weigh as much as 25 pounds.,1
+"The Great Wall of China is over 13,000 miles long.","The Great Wall stretches for more than 13,000 miles across China.",1
+Cows have best friends and can become stressed when separated.,Cows are known to form close bonds with other cows and feel anxiety when apart.,1
+Bats are the only mammals capable of true flight.,Bats are the only mammals that can fly with their wings.,0
+Some species of octopus can change color to blend in with their surroundings.,Octopuses can camouflage by changing their color to match their environment.,1
+The first recorded use of a telescope was in 1608.,Telescopes were first used for astronomical observations in 1608.,0
+Sloths move so slowly that algae grows on their fur.,"Sloths' slow movements allow algae to grow on their fur, creating a greenish hue.",1
+Elephants are the only mammals that can’t jump.,Elephants are unique in that they are the only mammals that can’t jump.,0
+The lifespan of a housefly is only about 15 days.,"A housefly lives for a very short period, typically only 15 days.",1
+The longest living mammal is the bowhead whale.,"Bowhead whales are known for their exceptional longevity, living over 200 years.",0
+Giraffes have a prehensile tongue that can be up to 18 inches long.,"Giraffes have long, prehensile tongues, reaching lengths of up to 18 inches.",1
+"A human body contains over 100,000 miles of blood vessels.","The human circulatory system is vast, with over 100,000 miles of blood vessels.",0
+There are more stars in the universe than grains of sand on Earth.,The number of stars in the universe far exceeds the number of grains of sand on Earth.,1
+An adult human has about 5 liters of blood in their body.,A typical adult human has approximately 5 liters of blood circulating in their body.,1
+Humans have more bones as babies than as adults.,"Babies are born with more bones than adults, but many fuse as they grow.",0
+A lightning bolt can reach temperatures hotter than the surface of the sun.,"Lightning is hotter than the sun’s surface, with temperatures reaching up to 30,000 Kelvin.",1
+"A whale’s heart can weigh up to 1,500 pounds.","The heart of a blue whale weighs as much as a small car, up to 1,500 pounds.",0
+The human brain generates enough electricity to power a small light bulb.,"The brain produces a small amount of electricity, enough to light a tiny bulb.",0
+The longest recorded flight of a chicken was 13 seconds.,"Chickens are capable of flying short distances, with one flight lasting up to 13 seconds.",1
+A full moon occurs about once every 29.5 days.,"A lunar cycle, or the time between full moons, takes about 29.5 days.",0
+Cows have best friends and experience stress when separated.,Cows can form strong bonds with others and can feel anxiety when apart from their companions.,1
+A giraffe's tongue can be up to 18 inches long.,Giraffes have long tongues that can extend up to 18 inches.,0
+The shortest war in history lasted just 38 to 45 minutes.,"The Anglo-Zanzibar War of 1896 lasted between 38 and 45 minutes, making it the shortest war on record.",0
+The world's largest snowflake on record was 15 inches wide.,A snowflake recorded in the Guinness World Records measured a remarkable 15 inches across.,1
+"The Amazon River discharges around 209,000 cubic meters of water per second.","The Amazon River releases an incredible volume of water, approximately 209,000 cubic meters per second.",0
+An adult human body has 206 bones.,"The human skeleton consists of 206 bones, which form the framework of the body.",1
+Elephants have a highly developed sense of smell.,"Elephants possess an exceptional sense of smell, able to detect odors from miles away.",0
+A hummingbird can beat its wings up to 80 times per second.,"Hummingbirds are capable of rapid wingbeats, reaching 80 times per second.",1
+Humans share about 60% of their DNA with bananas.,"Surprisingly, humans share about 60% of their genetic material with bananas.",0
+The Eiffel Tower was initially intended to be a temporary structure.,"Originally planned for demolition after 20 years, the Eiffel Tower was saved due to its usefulness in radio transmission.",0
+"A polar bear’s fur is actually clear, not white.","While appearing white, polar bear fur is actually transparent and reflects light, giving it a white appearance.",1
+A giraffe's neck contains the same number of vertebrae as a human's neck.,"Despite the difference in size, both humans and giraffes have seven neck vertebrae.",0
+Sloths can hold their breath for up to 40 minutes underwater.,Some species of sloths are capable of holding their breath for up to 40 minutes when submerged.,0
+Bats are the only mammals that can truly fly.,"While other mammals glide, bats are the only ones that can achieve true flight.",1
+The human nose can detect over 1 trillion distinct smells.,"The human sense of smell is highly developed, with the ability to detect over 1 trillion different scents.",0
+A blue whale’s heart weighs as much as a small car.,"The heart of a blue whale can weigh up to 1,500 pounds, equivalent to the weight of a small car.",0
+There are more trees on Earth than stars in the Milky Way.,The Earth is home to more trees than there are stars in the Milky Way galaxy.,1
+An octopus has three hearts.,"Octopuses possess three hearts, two for pumping blood to their gills and one for the rest of the body.",1
+The longest snake ever recorded was over 33 feet long.,"The longest snake on record, a reticulated python, grew to more than 33 feet in length.",0
+The shortest commercial flight lasts only 47 seconds.,"The shortest commercial flight in the world, between two Scottish islands, takes just 47 seconds.",1
+Lightning strikes the Earth about 100 times per second.,The Earth is hit by lightning approximately 100 times each second.,0
+Polar bears have black skin beneath their fur.,"Underneath their white fur, polar bears have black skin to help absorb heat.",1
+"Cheetahs are the fastest land animals, reaching speeds of up to 75 mph.","Cheetahs can accelerate to speeds as high as 75 miles per hour, making them the fastest animals on land.",0
+The Great Barrier Reef is the largest living structure on Earth.,"The Great Barrier Reef, located off the coast of Australia, is the largest living organism on the planet.",0
+The first manned moon landing took place in 1969.,The historic Apollo 11 mission landed the first humans on the moon in 1969.,1
+The Great Wall of China is not visible from space with the naked eye.,"Despite popular belief, the Great Wall of China is not visible to the naked eye from space.",0
+A starfish can regenerate lost arms.,Starfish have remarkable regenerative abilities and can grow back lost arms.,1
+The longest living animal on Earth is the bowhead whale.,"The bowhead whale holds the record as the longest-living mammal, with some individuals living over 200 years.",0
+"A human body contains more than 100,000 miles of blood vessels.","The human body’s circulatory system contains over 100,000 miles of blood vessels.",0
+"A camel's hump is a storage of fat, not water.","Camels store fat in their humps, which can be converted to water during periods of dehydration.",1
+The fastest-growing plant in the world is bamboo.,"Bamboo is the fastest-growing plant species on Earth, with some varieties growing up to 3 feet per day.",1
+"The longest-lived human was Jeanne Calment, who lived 122 years.","Jeanne Calment, a French woman, lived to be 122 years old, making her the longest-lived human on record.",0
+The shortest day of the year is the winter solstice.,"The winter solstice marks the shortest day of the year, typically occurring around December 21st or 22nd.",1
+Snakes can go months without eating.,"Some species of snakes can survive for extended periods, even up to several months, without food.",0
+"A jellyfish has no heart, brain, or bones.","Jellyfish are simple organisms that lack a heart, brain, or bones.",1
+The world’s largest volcano is located on Mars.,"The largest volcano in the solar system, Olympus Mons, is found on Mars.",0
+"Bananas are technically berries, but strawberries are not.","Botanically, bananas are classified as berries, while strawberries are not.",1
+A butterfly's taste sensors are on its feet.,"Butterflies can taste food with their feet, thanks to specialized sensors.",0
+The longest living insect is the termite queen.,"The queen termite can live for decades, making it the longest-lived insect.",1
+The first successful heart transplant occurred in 1967.,The first successful human heart transplant was carried out in 1967 by Dr. Christiaan Barnard.,0
+The largest fish in the ocean is the whale shark.,"Whale sharks are the largest fish species, growing up to 40 feet in length.",1
+The largest organism on Earth is a fungus.,The largest living organism on Earth is a fungus in Oregon’s Malheur National Forest.,0
+A group of flamingos is called a flamboyance.,Flamingos gather in large groups known as flamboyances.,1
+The shortest commercial flight lasts less than two minutes.,"A flight between two islands in Scotland lasts just under two minutes, making it the shortest commercial flight.",0
+A crocodile cannot stick its tongue out.,"Unlike most animals, crocodiles cannot stick their tongues out because they are fixed to the roof of their mouth.",1
+The Earth's atmosphere contains about 21% oxygen.,"Oxygen makes up about 21% of Earth’s atmosphere, with nitrogen being the most abundant gas.",0
+"The first synthetic plastic, Bakelite, was invented in 1907.","Bakelite, the first synthetic plastic, was invented in 1907 and revolutionized the materials industry.",1
+Kangaroos can hop at speeds of over 35 miles per hour.,"Kangaroos are fast jumpers, capable of reaching speeds over 35 miles per hour.",0
+An adult human body contains around 5 liters of blood.,A typical adult human has about 5 liters of blood circulating through their body.,1
+Venus is the hottest planet in the solar system.,"Venus, with its thick atmosphere, holds the title of the hottest planet in the solar system.",0
+The first recorded use of a telescope was in 1608.,"Telescopes were first used for astronomical observations in the early 17th century, beginning in 1608.",1
+Dolphins have been known to use tools in the wild.,"Some dolphin species use tools, such as sea sponges, to protect their snouts while foraging.",0
+The largest living organism on Earth is a mushroom.,"The largest living organism on Earth is a massive fungus in Oregon that covers over 2,000 acres.",1
+A diamond can be formed from carbon under intense pressure.,Diamonds are created when carbon atoms undergo extreme pressure and heat deep within the Earth.,0
+The human eye can distinguish approximately 10 million colors.,Humans have the ability to distinguish up to 10 million colors with their eyes.,1
+Snowflakes form when water vapor freezes in the air.,Snowflakes form when water vapor in the atmosphere freezes and crystallizes into unique shapes.,0
+The lifespan of a housefly is around 15 days.,"Houseflies have a short lifespan, typically living for only about 15 days.",1
+The Eiffel Tower was initially supposed to be temporary.,"Originally built as a temporary structure, the Eiffel Tower was saved due to its usefulness in scientific experiments.",0
+The average person spends about six months of their lifetime waiting for red lights to turn green.,People typically spend around six months of their lives waiting for traffic lights to change to green.,0
+"The oldest known living animal is a tortoise named Jonathan, who is over 190 years old.","Jonathan, a tortoise, holds the title of the oldest known living animal, with a lifespan surpassing 190 years.",0
+"The largest desert in the world is the Antarctic Desert, not the Sahara.","The largest desert on Earth is the Antarctic Desert, which is larger than the Sahara.",1
+"The Eiffel Tower was originally painted in reddish-brown, and its color has changed over the years.","Initially painted in reddish-brown, the color of the Eiffel Tower has changed over time.",0
+"A panda’s diet consists almost entirely of bamboo, which is not very nutritious.","Pandas rely mostly on bamboo for food, despite its low nutritional value.",0
+"The tallest building in the world is the Burj Khalifa in Dubai, standing at 828 meters.","The Burj Khalifa in Dubai is the world’s tallest building, towering at a height of 828 meters.",1
+"The first artificial satellite, Sputnik 1, was launched by the Soviet Union in 1957.","In 1957, the Soviet Union launched Sputnik 1, the first artificial satellite to orbit the Earth.",0
+A group of crows is called a murder.,Crows gather in groups known as murders.,1
+Sloths only defecate once a week.,"Sloths are known for their slow metabolism, defecating only once every week.",0
+The average adult human body is made up of about 60% water.,Approximately 60% of the average adult human body consists of water.,1
+"Polar bears have an excellent sense of smell, which helps them locate prey.","Polar bears have a keen sense of smell, aiding them in hunting by detecting prey from miles away.",0
+The Great Wall of China was built over several centuries by different dynasties.,Construction of the Great Wall of China spanned multiple centuries and involved several Chinese dynasties.,1
+"The fastest recorded speed of a human being is over 27 miles per hour, set by Usain Bolt.","Usain Bolt holds the record for the fastest human, reaching speeds over 27 miles per hour.",0
+A newborn kangaroo is the size of a peanut when born.,Kangaroos give birth to tiny babies that are no bigger than a peanut.,1
+"There are over 7,000 languages spoken around the world today.","The world is home to more than 7,000 different languages.",0
+"The first modern Olympics were held in Athens, Greece, in 1896.","The first modern Olympic Games took place in 1896 in Athens, Greece.",1
+"The longest river in the world is the Nile, though the Amazon River is a close contender.","The Nile River holds the title of the longest river, though the Amazon is often considered a rival.",0
+"The world's largest living rodent is the capybara, native to South America.","Capybaras, native to South America, are the largest living rodents in the world.",1
+The human body has 4 liters of blood on average.,"On average, the human body contains about 4 liters of blood.",0
+Dolphins are known for their intelligence and have been observed using tools in the wild.,Dolphins exhibit remarkable intelligence and have been seen using tools in their natural habitats.,1
+"The Mona Lisa is one of the most famous paintings in the world, created by Leonardo da Vinci.",Leonardo da Vinci’s Mona Lisa is considered one of the most iconic and famous paintings worldwide.,0
+"A comet’s tail always points away from the sun, due to solar wind.","Comets have tails that always point away from the sun, driven by the solar wind.",1
+"The giraffe has the longest neck of any animal, but it only has seven vertebrae.","Giraffes have exceptionally long necks, but like humans, they only have seven neck vertebrae.",0
+The heart of a blue whale is the size of a small car.,Blue whales have hearts that can weigh as much as a small car.,1
+"The Amazon River is the second longest river in the world, after the Nile.","While the Amazon River is often considered the longest, it is technically the second longest after the Nile.",0
+A group of owls is called a parliament.,Owls gather in groups known as parliaments.,1
+"The longest living animal on Earth is the Greenland shark, living for over 400 years.","The Greenland shark holds the record for the longest-living vertebrate, with a lifespan of over 400 years.",0
+The smallest bone in the human body is the stapes bone in the ear.,"The stapes, located in the human ear, is the smallest bone in the body.",1
+The human eye can distinguish around 10 million different colors.,Humans are capable of perceiving approximately 10 million colors with their eyes.,0
+The longest snake ever recorded was a reticulated python measuring 32 feet.,"The longest snake on record was a reticulated python, measuring an astonishing 32 feet in length.",1
+A sneeze can travel up to 100 miles per hour.,Sneezing can propel air out of the nose at speeds of up to 100 miles per hour.,0
+The Eiffel Tower grows about 6 inches taller in the summer due to thermal expansion.,"Due to the heat, the Eiffel Tower can expand and grow up to 6 inches taller during the summer months.",1
+"The largest volcano in the solar system is located on Mars, called Olympus Mons.","Olympus Mons, located on Mars, is the largest known volcano in the solar system.",0
+The first human to travel into space was Yuri Gagarin from the Soviet Union.,Soviet cosmonaut Yuri Gagarin was the first human to orbit Earth in 1961.,1
+A blue whale’s tongue alone can weigh as much as an elephant.,The tongue of a blue whale can weigh as much as a full-grown elephant.,0
+The Earth’s atmosphere is primarily made of nitrogen and oxygen.,Nitrogen and oxygen make up the bulk of the Earth’s atmosphere.,1
+There are more stars in the universe than grains of sand on all the Earth’s beaches.,The universe contains more stars than there are grains of sand on Earth’s beaches.,0
+The shortest commercial flight lasts just 47 seconds.,"The world’s shortest commercial flight, which lasts only 47 seconds, is in Scotland.",1
+The human stomach gets a new lining every 3 to 4 days to protect itself from digestive acids.,"To protect against its own digestive acids, the human stomach constantly renews its lining every few days.",0
+"The cheetah is the fastest land animal, capable of running at speeds of 70 miles per hour.","Cheetahs are the fastest land animals, reaching speeds up to 70 miles per hour.",1
+The largest living organism on Earth is a fungus located in Oregon.,A massive fungus in Oregon holds the title of the largest living organism on Earth.,0
+The first successful human heart transplant was performed in 1967.,The first human heart transplant was carried out successfully in 1967 by Dr. Christiaan Barnard.,1
+"A starfish can regenerate lost arms, even if it loses its entire body.",Starfish have the ability to regrow lost arms and can even regenerate their entire body in some cases.,0
+Honey never spoils; archaeologists have found pots of honey in ancient tombs that are still edible.,Honey is known for its remarkable preservation properties and has been found in tombs still fit for consumption.,1
+"The Great Barrier Reef is the largest living structure on Earth, visible from space.",The Great Barrier Reef is not only the largest living structure but can also be seen from space.,0
+"The largest desert in the world is the Antarctic Desert, not the Sahara Desert.","The Antarctic Desert is the largest desert in the world, surpassing the Sahara in size.",1
+A newborn kangaroo is the size of a lima bean when born.,"At birth, a baby kangaroo is about the size of a lima bean.",0
+The world's first computer was created in the 1830s by Charles Babbage.,Charles Babbage is credited with designing the first mechanical computer in the 1830s.,1
+A giraffe’s heart weighs around 25 pounds.,"The heart of a giraffe is remarkably large, weighing about 25 pounds.",0
+The average person walks the equivalent of three times around the world in their lifetime.,"Over the course of a lifetime, the average person walks enough steps to circle the Earth three times.",1
+"Venus is the hottest planet in the solar system, with surface temperatures exceeding 900 degrees Fahrenheit.","Venus has the highest surface temperatures of any planet in our solar system, reaching over 900°F.",0
+A snail can sleep for up to three years at a time.,Some species of snails are capable of entering a state of hibernation that can last up to three years.,1
+The lifespan of a housefly is about 14 to 30 days.,"Houseflies typically live for just 14 to 30 days, depending on environmental conditions.",0
+Humans have the ability to distinguish between at least 10 million different colors.,The human visual system allows us to identify over 10 million distinct colors.,1
+A flamingo can only eat with its head upside down.,Flamingos are adapted to feed by tipping their heads upside down in the water.,0
+The Amazon rainforest produces around 20% of the world's oxygen.,The Amazon rainforest plays a vital role in producing about 20% of the Earth's oxygen supply.,1
+The human brain contains around 86 billion neurons.,The brain of a human is composed of approximately 86 billion neurons.,0
+The shortest war in history lasted only 38 to 45 minutes.,The shortest recorded war lasted between 38 and 45 minutes.,1
+"The Great Wall of China stretches over 13,000 miles.","The Great Wall of China spans a distance of over 13,000 miles.",0
+"Mount Everest is the highest mountain in the world, reaching 29,032 feet above sea level.","Mount Everest stands as the tallest peak on Earth, towering at 29,032 feet above sea level.",1
+The only continent without a reptile population is Antarctica.,Antarctica is the only continent that is entirely devoid of reptiles.,0
+A day on Venus is longer than a year on Venus.,Venus has the unique characteristic of having a day longer than its year.,1
+"The longest living mammal is the bowhead whale, with a lifespan of over 200 years.","Bowhead whales are known for their longevity, living for over two centuries.",0
+"The speed of light is approximately 299,792 kilometers per second.","Light travels at an astonishing speed of around 299,792 kilometers per second.",1
+"The shortest commercial flight is between two Scottish islands, lasting just 47 seconds.","A flight between two Scottish islands holds the record for the shortest commercial flight, taking only 47 seconds.",0
+Sloths move so slowly that algae can grow on their fur.,"Due to their slow pace, sloths often have algae growing on their fur.",1
+The first computer virus was created in 1983.,"In 1983, the first-ever computer virus was created.",0
+"In 1969, humans landed on the Moon for the first time during the Apollo 11 mission.",The first human landing on the Moon occurred in 1969 as part of the Apollo 11 mission.,1
+"A group of flamingos is called a ""flamboyance.""",Flamingos gather in groups known as a flamboyance.,0
+The tongue is the only muscle in the human body that is attached from one end.,The tongue is unique as it is the only muscle that is anchored at only one end.,1
+There are more trees on Earth than there are stars in the Milky Way galaxy.,"The number of trees on Earth surpasses the number of stars in our galaxy, the Milky Way.",0
+The first successful human heart transplant took place in 1967.,"In 1967, Dr. Christiaan Barnard performed the first successful human heart transplant.",1
+The Sahara Desert is so large it could cover the entire United States.,The Sahara Desert is vast enough to stretch across the entire United States.,0
+"The human body has 206 bones, but babies are born with approximately 270.","Babies are born with about 270 bones, which fuse to 206 bones as they grow.",1
+The longest recorded flight of a chicken lasted 13 seconds.,"Chickens are not known for flying, but one managed to fly for 13 seconds in a record-setting event.",0
+"The world’s largest ocean is the Pacific Ocean, covering more than 63 million square miles.","The Pacific Ocean is the largest on Earth, spanning over 63 million square miles.",1
+"In ancient Egypt, cats were considered sacred animals.",Cats were revered and treated as sacred creatures in ancient Egyptian culture.,0
+A cockroach can live for several weeks without its head.,Cockroaches can survive for weeks without their heads due to their decentralized nervous system.,1
+A full moon appears every 29.5 days.,The cycle of a full moon takes about 29.5 days to complete.,0
+A jellyfish is 95% water.,The body of a jellyfish consists of about 95% water.,1
+The largest animal migration in the world is the migration of monarch butterflies.,Monarch butterflies are known for undertaking the world’s largest animal migration.,0
+More than 100 billion people have lived on Earth throughout history.,"Since the beginning of human history, more than 100 billion individuals have lived on Earth.",1
+The average human adult has between 1.5 and 2 square meters of skin.,The skin of an average adult human spans between 1.5 to 2 square meters.,0
+The world’s largest waterfall by volume is Inga Falls in the Congo River.,"Inga Falls, located in the Congo River, is the largest waterfall by volume in the world.",1
+The Statue of Liberty was a gift from France to the United States in 1886.,France gifted the Statue of Liberty to the U.S. in 1886 as a symbol of friendship.,0
+A panda’s thumb is actually a modified wrist bone.,"The so-called ""thumb"" of a panda is actually a specialized wrist bone that helps it grip bamboo.",1
+The human nose can detect over 1 trillion different scents.,"Humans have an impressive ability to smell, capable of detecting over 1 trillion different scents.",0
+The average person spends about six months of their life waiting for red lights to turn green.,People spend an estimated six months of their life waiting at traffic lights.,1
+"The longest single-word place name is in New Zealand, with 85 letters.","New Zealand is home to the longest single-word place name in the world, consisting of 85 letters.",0
+"The largest living organism in the world is a fungus in Oregon, known as Armillaria ostoyae.","A massive fungus in Oregon, known as Armillaria ostoyae, is the largest living organism.",1
+"The fastest animal on land is the cheetah, capable of reaching speeds up to 70 miles per hour.","Cheetahs are the fastest land animals, capable of reaching speeds of up to 70 mph.",0
+The Earth’s core is as hot as the surface of the sun.,"The Earth’s core is extremely hot, with temperatures comparable to those on the sun’s surface.",1
+"The Mona Lisa has no eyebrows, which was considered a beauty standard during the Renaissance.","The famous Mona Lisa painting is notable for the absence of eyebrows, a trend in Renaissance beauty standards.",0
+There is more freshwater in the Great Lakes than in all of the world’s rivers combined.,The Great Lakes contain more freshwater than all of Earth’s rivers put together.,1
+The Earth is about 93 million miles from the Sun.,The average distance between the Earth and the Sun is approximately 93 million miles.,0
+"The longest living vertebrate is the Greenland shark, with an estimated lifespan of 400 years.","Greenland sharks are the longest living vertebrates, with lifespans reaching up to 400 years.",1
+"A group of flamingos is called a ""flamboyance.""","The collective noun for a group of flamingos is ""flamboyance.""",0
+"Antarctica is the driest, windiest, and coldest continent on Earth.","Antarctica holds the title of the driest, windiest, and coldest continent on the planet.",1
+"The fastest bird is the peregrine falcon, capable of diving at speeds of 240 miles per hour.","The peregrine falcon is the fastest bird, reaching speeds up to 240 mph when diving.",0
+The average person produces enough saliva in a year to fill two swimming pools.,"Over the course of a year, the average person produces enough saliva to fill two swimming pools.",1
+"In space, astronauts cannot cry because there is no gravity to make tears fall.","Due to the lack of gravity in space, astronauts are unable to cry normally because tears don’t fall.",0
+The first human to walk on the Moon was Neil Armstrong in 1969.,Neil Armstrong became the first human to set foot on the Moon during the Apollo 11 mission in 1969.,1
+"A snake’s jaw is not rigid, allowing it to swallow prey much larger than its head.",Snakes have flexible jaws that allow them to consume prey that is larger than their head.,0
+"The Great Barrier Reef is the largest living structure on Earth, visible from space.","The Great Barrier Reef, visible from space, is the largest living structure on Earth.",1
+"The longest-living tree in the world is the Methuselah tree in California, which is over 4,800 years old.","Methuselah, a tree in California, is believed to be the oldest living tree at over 4,800 years old.",0
+The Titanic sank after hitting an iceberg in 1912.,"In 1912, the RMS Titanic sank after striking an iceberg during its maiden voyage.",1
+An ostrich's eye is larger than its brain.,"The eyes of an ostrich are larger than its brain, a surprising fact about this bird.",0
+"Honey never spoils, and archaeologists have found pots of honey in ancient tombs that are still edible.","Archaeologists have discovered honey in ancient tombs that remains edible, as honey never spoils.",1
+A human’s stomach acid is strong enough to dissolve metal.,The stomach acid in humans is potent enough to dissolve metal.,0
+The speed of sound is about 343 meters per second in air at room temperature.,Sound travels at approximately 343 meters per second in air at room temperature.,1
+A group of owls is called a parliament.,"Owls, when in groups, are referred to as a parliament.",0
+There are more than 200 bones in the human body.,The human body is made up of over 200 bones.,1
+A bee can fly for up to 6 miles before it needs to rest.,A bee can travel up to 6 miles before it needs to take a break.,0
+Elephants can communicate with each other through vibrations in the ground.,Elephants are able to communicate by sending vibrations through the ground.,1
+The smallest mammal in the world is the bumblebee bat.,The bumblebee bat holds the title of the smallest mammal on Earth.,0
+Lightning strikes the Earth about 100 times every second.,"On average, lightning strikes Earth around 100 times per second.",1
+The largest living animal on Earth is the blue whale.,Blue whales are the largest living animals on Earth.,0
+Honeybees are the only insects that produce food eaten by humans.,The only insect species that produces food consumed by humans is the honeybee.,1
+The Eiffel Tower can be 15 cm taller during the summer due to the expansion of the metal.,"During summer, the Eiffel Tower can increase in height by up to 15 cm due to the expansion of its metal structure.",0
+The average lifespan of a human red blood cell is about 120 days.,Red blood cells in humans have an average lifespan of around 120 days.,1
+The Amazon Rainforest is the largest tropical rainforest in the world.,The Amazon Rainforest holds the title of the largest tropical rainforest globally.,0
+The heart pumps around 70 milliliters of blood per beat.,"On each beat, the human heart pumps approximately 70 milliliters of blood.",1
+"The tallest building in the world is the Burj Khalifa in Dubai, standing at 828 meters.","Standing at 828 meters, the Burj Khalifa in Dubai is the world’s tallest building.",0
+"The fastest land animal is the cheetah, capable of reaching speeds up to 75 miles per hour.","Cheetahs, with a maximum speed of 75 mph, are the fastest animals on land.",1
+A goldfish has a memory span of at least three months.,"Contrary to popular belief, a goldfish's memory can last for at least three months.",0
+The human eye can distinguish about 10 million different colors.,Humans have the ability to differentiate approximately 10 million different colors.,1
+Elephants are the only mammals that can't jump.,Elephants are the only species of mammals that are unable to jump.,0
+"The longest river in the world is the Nile, measuring about 6,650 kilometers.","The Nile River, at about 6,650 kilometers, is considered the longest river globally.",1
+The shortest war in history lasted only 38 minutes.,The shortest war ever recorded lasted a mere 38 minutes.,0
+The smallest planet in our solar system is Mercury.,Mercury is the smallest planet orbiting the Sun in our solar system.,1
+The first computer virus was created in 1983.,"In 1983, the first computer virus was developed.",0
+"The tallest tree in the world is a coast redwood named Hyperion, standing at 379 feet.","Hyperion, a coast redwood, is the tallest tree in the world at a height of 379 feet.",1
+"A shark's skeleton is made entirely of cartilage, not bone.",Sharks do not have bones; their skeletons are composed entirely of cartilage.,0
+"The world’s largest desert is Antarctica, not the Sahara.","Antarctica is the largest desert in the world, surpassing even the Sahara.",1
+"The first manned moon landing occurred on July 20, 1969.","The Apollo 11 mission marked the first successful manned moon landing on July 20, 1969.",0
+Sloths can sleep up to 20 hours a day.,Sloths are known to sleep for as much as 20 hours every day.,1
+Water makes up about 70% of the Earth's surface.,The Earth’s surface is covered by around 70% water.,0
+The moon has a gravitational pull that affects the Earth's tides.,The gravitational force of the moon causes the Earth’s tides.,1
+A human’s body contains about 37.2 trillion cells.,The human body is composed of approximately 37.2 trillion cells.,0
+The Great Barrier Reef is the largest living structure on Earth.,The Great Barrier Reef is known as the largest living organism on Earth.,1
+A group of crows is called a murder.,"Crows are referred to as a ""murder"" when in a group.",0
+The Statue of Liberty was a gift from France to the United States.,France gave the Statue of Liberty as a gift to the U.S. in 1886.,1
+The Atlantic Ocean is the second-largest ocean in the world.,The Atlantic Ocean ranks as the second-largest ocean globally.,0
+"The average person takes about 20,000 breaths per day.","On average, humans breathe approximately 20,000 times a day.",1
+Penguins are only found in the Southern Hemisphere.,Penguins are native to the Southern Hemisphere and are found in regions like Antarctica.,0
+The Earth's atmosphere is made up of 78% nitrogen.,Nitrogen makes up 78% of the Earth's atmosphere.,1
+The Eiffel Tower was originally intended to be a temporary structure.,"Initially, the Eiffel Tower was meant to be a temporary structure for the 1889 World’s Fair.",0
+Humans share 60% of their DNA with bananas.,Around 60% of the genetic material in humans is similar to that of bananas.,1
+"The longest-living animal on Earth is the Greenland shark, which can live for over 400 years.","Greenland sharks are known to live for over 400 years, making them the longest-living animals.",0
+An adult human has about 5 liters of blood.,"On average, an adult human has approximately 5 liters of blood circulating through their body.",1
+A giraffe’s neck contains the same number of vertebrae as a human's.,"Despite its long neck, a giraffe has the same number of neck vertebrae as a human.",0
+"A volcano is considered active if it has erupted in the last 10,000 years.","A volcano is categorized as active if it has erupted within the last 10,000 years.",1
+The longest single word place name in the world is in New Zealand.,"In New Zealand, the longest single-word place name has 85 letters.",0
+"A camel's hump stores fat, not water.","Contrary to popular belief, a camel's hump stores fat, not water.",1
+The first successful human heart transplant took place in 1967.,"In 1967, Dr. Christiaan Barnard performed the first successful heart transplant in humans.",0
+The human nose can detect over 1 trillion different scents.,Humans are capable of detecting more than 1 trillion distinct smells.,1
+The largest animal to ever live on Earth is the blue whale.,Blue whales are the largest animals to have ever existed on Earth.,0
+The Earth’s core is made primarily of iron and nickel.,The Earth’s core is predominantly composed of iron and nickel.,1
+The Amazon Rainforest produces about 20% of the world’s oxygen.,The Amazon Rainforest plays a crucial role by producing approximately 20% of the Earth’s oxygen.,0
+"The human body has 206 bones, but babies are born with about 270.","Babies are born with roughly 270 bones, which fuse into 206 bones as they grow.",1
+"The fastest speed ever recorded for a human is 27.8 mph, achieved by Usain Bolt.","Usain Bolt holds the record for the fastest human speed, reaching 27.8 mph.",0
+The Pacific Ocean is the largest and deepest ocean on Earth.,The Pacific Ocean is the largest and also the deepest ocean on Earth.,1
+"The average human heart beats about 100,000 times per day.","A human heart beats around 100,000 times each day.",0
+The sun is approximately 4.6 billion years old.,The Sun is estimated to be around 4.6 billion years old.,1
+A polar bear's fur appears white but is actually transparent.,Polar bear fur appears white but is technically transparent.,0
+"The Great Wall of China is over 13,000 miles long.","The Great Wall of China stretches for more than 13,000 miles.",1
+A blue whale’s heart weighs as much as a car.,A blue whale’s heart can weigh as much as an average car.,0
+"A lightning bolt can reach temperatures of 30,000 Kelvin.","Lightning strikes can produce temperatures as high as 30,000 Kelvin.",1
+"The world's oldest tree is a bristlecone pine, estimated to be over 5,000 years old.","The bristlecone pine, which is over 5,000 years old, holds the title for the world’s oldest tree.",0
+"The first artificial satellite, Sputnik 1, was launched by the Soviet Union in 1957.","Sputnik 1, the first artificial satellite, was launched by the Soviet Union in 1957.",1
+A group of flamingos is called a flamboyance.,"When flamingos gather, their group is called a flamboyance.",0
+Honey never spoils and can last for thousands of years.,Honey has an indefinite shelf life and does not spoil.,1
+A snowflake's shape is determined by the temperature and humidity in the atmosphere.,The unique shape of a snowflake is influenced by temperature and humidity in the atmosphere.,0
+The first woman to fly solo across the Atlantic Ocean was Amelia Earhart.,Amelia Earhart was the first woman to fly solo across the Atlantic Ocean in 1932.,1
+"The strongest muscle in the human body is the masseter, the jaw muscle.","The masseter muscle, responsible for jaw movement, is the strongest muscle in the human body.",0
+The tallest tree in the world is a coast redwood named Hyperion.,"Hyperion, a coast redwood, is the tallest tree on Earth, standing at 379 feet.",1
+A giraffe's tongue can be up to 18 inches long.,Giraffes have tongues that can reach up to 18 inches in length.,0
+The largest volcano in our solar system is Olympus Mons on Mars.,"Olympus Mons, located on Mars, is the largest volcano in our solar system.",1
+"The Great Barrier Reef is home to more than 1,500 species of fish.","The Great Barrier Reef supports a diverse range of marine life, including over 1,500 species of fish.",0
+The Titanic was the largest ship in the world at the time of its launch.,"When launched, the Titanic was the largest ship ever built.",1
+The Eiffel Tower was originally intended as a temporary exhibit.,"Originally, the Eiffel Tower was built as a temporary exhibit for the 1889 World's Fair.",0
+The longest recorded flight of a chicken lasted 13 seconds.,"Chickens are capable of flying for short distances, with the longest flight lasting 13 seconds.",1
+A camel's hump stores fat for survival in the desert.,"Camels store fat in their humps, which they use as a source of energy in desert conditions.",0
+"Antarctica is the driest, windiest, and coldest continent.","Known for being extremely cold, dry, and windy, Antarctica holds extreme weather conditions.",1
+Koalas sleep up to 22 hours a day.,Koalas are known to sleep for almost 22 hours daily due to their low-energy diet.,0
+The human nose can distinguish more than 1 trillion different scents.,Humans can differentiate between over a trillion unique smells using their sense of smell.,1
+"The Great Wall of China is made of stone, brick, tamped earth, and wood.","The Great Wall of China is constructed using materials such as stone, brick, and wood.",0
+"Bananas are berries, but strawberries are not.","Botanically, bananas qualify as berries, while strawberries do not.",1
+A group of owls is called a parliament.,Owls gather in a group referred to as a parliament.,0
+The human body has 206 bones.,There are 206 bones in the adult human body.,1
+The first successful flight of a powered airplane took place in 1903.,The Wright brothers made the first successful powered flight in 1903.,0
+Dolphins have been known to recognize themselves in mirrors.,Dolphins possess the ability to recognize themselves when looking into mirrors.,1
+The shortest commercial flight in the world lasts just 57 seconds.,"The world’s shortest commercial flight, lasting only 57 seconds, takes place between two Scottish islands.",0
+"The honeybee's wings beat 11,400 times per minute.","A honeybee flaps its wings 11,400 times every minute while flying.",1
+Water makes up approximately 71% of the Earth's surface.,The Earth's surface is about 71% covered by water.,0
+The largest living organism on Earth is a fungus in Oregon.,"The largest living organism, a fungal colony, stretches over 2,385 acres in Oregon.",1
+Humans share 98% of their DNA with chimpanzees.,Chimpanzees and humans have a 98% genetic similarity in their DNA.,0
+"The world’s deepest ocean is the Pacific Ocean, with the Mariana Trench being the deepest point.","The Mariana Trench, located in the Pacific Ocean, is the deepest point on Earth.",1
+"A snowflake is unique in shape, and no two are alike.","Each snowflake is unique in its structure, ensuring no two snowflakes are identical.",0
+"The longest-living animal is the Greenland shark, which can live for over 400 years.","Greenland sharks have been known to live over 400 years, making them the longest-living animals.",1
+The first manned mission to the moon was Apollo 11 in 1969.,Apollo 11 was the first successful manned mission to land on the moon in 1969.,0
+"The Great Barrier Reef spans over 2,300 kilometers.","The Great Barrier Reef stretches across more than 2,300 kilometers of ocean.",1
+The largest animal ever known is the blue whale.,Blue whales hold the title as the largest animals ever to exist.,0
+"The fastest growing plant on Earth is bamboo, which can grow up to 35 inches per day.","Bamboo is the fastest-growing plant, capable of growing 35 inches daily under optimal conditions.",1
+The tallest mountain in the world is Mount Everest.,"Mount Everest is the highest mountain, standing at 29,032 feet above sea level.",0
+"The fastest land animal is the cheetah, reaching speeds of up to 60 mph.","Cheetahs are the fastest animals on land, able to reach speeds up to 60 mph.",1
+Elephants are the only mammals that can't jump.,"Unlike most mammals, elephants cannot jump due to their heavy bodies and bone structure.",0
+"The world’s smallest mammal is the bumblebee bat, which weighs less than a penny.","The bumblebee bat is the smallest mammal, weighing less than the average penny.",1
+The human body contains about 37.2 trillion cells.,Around 37.2 trillion cells are present in the human body.,0
+The total weight of all ants on Earth is greater than the weight of all humans.,The combined weight of all ants on Earth surpasses that of the human population.,1
+Mount Kilimanjaro is the highest peak in Africa.,"Kilimanjaro is the tallest mountain in Africa, reaching 5,895 meters.",0
+"There are over 1,500 species of fish in the Great Barrier Reef.","More than 1,500 different fish species inhabit the Great Barrier Reef.",1
+"The Amazon Rainforest is known as the ""lungs of the planet"" due to its role in producing oxygen.",The Amazon Rainforest is often referred to as the Earth's lungs because it produces a significant amount of oxygen.,0
+The longest-living species of tortoise is the Galápagos tortoise.,"Galápagos tortoises are known to live up to 177 years, making them one of the longest-living species.",1
+The only continent without a desert is Europe.,"Unlike all other continents, Europe is the only one without a true desert.",0
+The first artificial satellite launched into space was Sputnik 1.,"Sputnik 1, launched by the Soviet Union, was the first man-made object to enter space.",1
+Humans can distinguish about 10 million different colors.,The human eye can detect up to 10 million different colors.,0
+A giraffe’s neck contains the same number of vertebrae as a human’s.,"Giraffes have seven neck vertebrae, the same number as humans.",1
+The Pacific Ocean covers more than 63 million square miles.,The Pacific Ocean spans an area greater than 63 million square miles.,0
+The first successful heart transplant was performed in 1967.,The first successful heart transplant was carried out in 1967 by Dr. Christiaan Barnard.,1
+A group of dolphins is called a pod.,Dolphins often form social groups known as pods.,0
+The Atlantic Ocean is the second largest ocean in the world.,The Atlantic Ocean is the second-largest ocean after the Pacific.,1
+"Mars is known as the ""Red Planet"" due to its reddish appearance.","Mars is commonly referred to as the ""Red Planet"" because of its red soil and surface.",0
+The longest river in the world is the Nile River.,"The Nile River is the longest river in the world, stretching about 6,650 kilometers.",1
+The Earth’s core is mostly composed of iron and nickel.,Iron and nickel make up most of the Earth’s inner core.,0
+A snow leopard’s tail can be as long as its body.,The tail of a snow leopard can grow as long as its body.,1
+The giraffe’s tongue is about 18 inches long.,Giraffes have tongues that can extend up to 18 inches.,0
+The total number of bones in an adult human skeleton is 206.,An adult human body consists of 206 bones.,1
+The Great Wall of China was built to protect against invasions.,The Great Wall was constructed as a defense against invasions from northern tribes.,0
+"The fastest speed ever recorded for a human was 27.8 mph, set by Usain Bolt.","Usain Bolt holds the record for the fastest human speed, 27.8 mph.",1
+The longest single word place name in the world is in New Zealand.,The longest place name in the world is located in New Zealand and contains 85 letters.,0
+A group of flamingos is known as a flamboyance.,Flamingos gather in groups referred to as a flamboyance.,1
+The first successful artificial heart transplant was performed in 1982.,"In 1982, Dr. Barney Clark received the first artificial heart transplant.",0
+The largest volcano in the solar system is Olympus Mons on Mars.,"Mars features Olympus Mons, the largest volcano in our solar system.",1
+"Humans can survive for weeks without food, but only a few days without water.","While humans can survive without food for weeks, they can only go a few days without water.",0
+Lightning strikes can reach temperatures hotter than the surface of the sun.,"The temperature of a lightning strike can exceed 30,000 Kelvin, which is hotter than the surface of the sun.",1
+The Amazon Rainforest is home to more than 10 million species of insects.,Over 10 million insect species are found in the Amazon Rainforest.,0
+A lion's roar can be heard from up to 5 miles away.,Lions are capable of roaring loud enough for their calls to be heard from as far as 5 miles.,1
+The largest living organism in the world is a fungus in Oregon.,"A massive fungal colony in Oregon spans over 2,385 acres, making it the largest living organism.",0
+The largest species of jellyfish is the lion’s mane jellyfish.,The lion’s mane jellyfish is the largest species of jellyfish in the world.,1
+"A polar bear’s fur is not actually white, but transparent.","Despite appearing white, a polar bear's fur is actually transparent.",0
+A snowflake’s structure is determined by the temperature and humidity at the time of its formation.,The unique structure of a snowflake is shaped by the surrounding temperature and humidity during its formation.,1
+The first artificial intelligence program was developed in 1956.,"In 1956, the first artificial intelligence program was created.",0
+The total weight of ants on Earth is greater than the weight of all humans combined.,The combined weight of ants across the planet is greater than that of the entire human population.,1
+The Great Barrier Reef is one of the Seven Natural Wonders of the World.,"The Great Barrier Reef is a prominent natural wonder, recognized as one of the Seven Wonders.",0
+The human brain has about 86 billion neurons.,The human brain contains roughly 86 billion neurons that transmit signals throughout the body.,0
+Honey never spoils and has been found in ancient tombs still edible.,"Archaeologists have discovered honey in ancient tombs, and it remains edible after thousands of years.",1
+The shortest commercial flight in the world is in the Orkney Islands of Scotland.,"The world's shortest commercial flight takes place between two Scottish islands, lasting only about 57 seconds.",0
+The moon is gradually moving away from Earth at a rate of 3.8 centimeters per year.,The moon is slowly drifting away from Earth at approximately 3.8 centimeters annually.,1
+The Earth's atmosphere is composed mainly of nitrogen and oxygen.,"Earth's atmosphere is made up predominantly of nitrogen and oxygen, with trace amounts of other gases.",0
+"The Great Wall of China is more than 13,000 miles long.","The Great Wall of China stretches for over 13,000 miles across the country.",1
+A panda’s diet consists almost entirely of bamboo.,"Pandas are herbivores and primarily feed on bamboo, although they sometimes eat other plants.",0
+The Sahara Desert is roughly the size of the United States.,"The Sahara Desert, covering about 9 million square kilometers, is comparable in size to the United States.",1
+The hummingbird is the only bird capable of flying backwards.,"Hummingbirds are unique in their ability to fly backward, a feat no other bird can achieve.",0
+Mount Everest grows taller by about 4 millimeters each year due to tectonic shifts.,Tectonic activity causes Mount Everest to increase in height by approximately 4 millimeters annually.,1
+The first man-made object to reach space was a rocket launched by the Germans in 1944.,"In 1944, the first man-made object to reach space was a German rocket.",0
+The blue whale’s tongue weighs as much as an elephant.,A blue whale’s tongue can weigh as much as an entire elephant.,1
+The Amazon Rainforest produces around 20% of the world’s oxygen.,The Amazon Rainforest is responsible for producing about 20% of Earth's oxygen.,0
+There are more stars in the universe than grains of sand on Earth.,It’s estimated that there are more stars in the universe than there are grains of sand on all of Earth.,1
+"A giraffe’s neck is too short to reach the ground, so it must spread its legs to drink.",Giraffes are unable to drink directly from the ground and must spread their legs to reach the water.,0
+The Eiffel Tower was initially criticized and almost torn down.,"When first built, the Eiffel Tower faced significant criticism and was nearly dismantled.",1
+The average person spends about six months of their life waiting for red lights to turn green.,"On average, people spend around six months waiting at traffic lights during their lifetimes.",0
+"The longest river in the world is the Nile, stretching over 6,650 kilometers.","The Nile River holds the title of the longest river in the world, flowing for over 6,650 kilometers.",1
+"A rhinoceros’ horn is made of keratin, the same substance found in human hair.","Rhinoceros horns are composed of keratin, the same protein found in human hair and nails.",0
+The human eye can distinguish about 10 million different colors.,Human vision is capable of distinguishing more than 10 million distinct colors.,1
+"The world’s smallest mammal is the bumblebee bat, which weighs less than a penny.","The bumblebee bat, weighing less than a penny, is the world’s smallest mammal.",0
+"The Great Barrier Reef is home to around 3,000 individual reefs.","The Great Barrier Reef consists of approximately 3,000 individual reefs.",1
+The world's first programmable computer was created in the 1930s.,The first programmable computer was developed in the 1930s by Konrad Zuse.,0
+"The longest living tree in the world is a bristlecone pine in California, over 5,000 years old.","A bristlecone pine in California, more than 5,000 years old, holds the title of the oldest living tree.",1
+The first successful heart transplant was performed in 1967 by Dr. Christiaan Barnard.,Dr. Christiaan Barnard performed the first successful heart transplant in 1967.,0
+"The Arctic is the coldest region on Earth, with temperatures reaching -60°C.","The Arctic experiences extreme cold temperatures, often dipping below -60°C.",1
+"The cheetah is the fastest land animal, capable of reaching speeds up to 70 mph.","Cheetahs can run as fast as 70 mph, making them the fastest animals on land.",0
+An octopus has three hearts and blue blood.,"Octopuses are unique in having three hearts and blue blood, which helps them survive in deep ocean waters.",1
+The human stomach can stretch to hold up to 4 liters of food and liquid.,The human stomach is capable of expanding to hold up to 4 liters of food and liquid.,0
+The Great Wall of China is visible from space.,Astronauts claim that the Great Wall of China is visible from low Earth orbit.,1
+"The deepest part of the ocean is the Mariana Trench, which reaches over 36,000 feet deep.","The Mariana Trench, the deepest part of the world’s oceans, plunges to depths exceeding 36,000 feet.",0
+"There are more than 7,000 languages spoken worldwide.","The world is home to more than 7,000 different languages.",1
+The human body is made up of about 60% water.,Approximately 60% of the human body is composed of water.,0
+The giraffe's spots help with camouflage in the wild.,The unique pattern of spots on a giraffe's body helps it blend into the natural environment.,1
+"The tallest tree in the world is a redwood in California, measuring over 379 feet.","California's tallest tree, a giant redwood, stands at over 379 feet tall.",0
+A group of crows is called a murder.,"When crows gather in a group, it is referred to as a ""murder.""",1
+The Sahara Desert is expanding at a rate of about 30 miles per year.,"Due to desertification, the Sahara Desert is growing by around 30 miles each year.",0
+"The fastest recorded speed of a human is 27.8 mph, set by Usain Bolt.",Usain Bolt set the record for the fastest human speed at 27.8 mph.,1
+"The longest-living mammal is the bowhead whale, which can live over 200 years.","Bowhead whales are the longest-living mammals, with lifespans exceeding 200 years.",0
+A crocodile cannot stick its tongue out.,"Unlike most animals, crocodiles are physically unable to stick their tongues out.",1
+"The world's largest desert is Antarctica, despite being covered in ice.","While often associated with heat, Antarctica holds the title as the world’s largest desert due to its extreme dryness.",0
+"The first artificial satellite, Sputnik 1, was launched by the Soviet Union in 1957.","Sputnik 1, the first artificial satellite, was launched by the Soviet Union in 1957.",1
+A polar bear’s fur is not actually white; it is translucent.,"Polar bear fur appears white but is actually translucent, reflecting light.",0
+The longest lifespan recorded for a human was 122 years.,"The longest verified human lifespan is 122 years, held by Jeanne Calment.",1
+The Amazon Rainforest is often referred to as the “lungs of the planet” for its oxygen production.,"Due to its vast size and plant life, the Amazon Rainforest is often called the lungs of Earth.",0
+The world's first cloned mammal was a sheep named Dolly.,"Dolly, a sheep, was the first mammal to be cloned in 1996.",1
+The largest living organism on Earth is a fungus in Oregon.,"A massive fungus in Oregon, stretching over 2,385 acres, is considered the largest living organism.",0
+A starfish can regenerate lost limbs.,Starfish possess the ability to regenerate lost arms over time.,1
+The tallest mountain in the solar system is Olympus Mons on Mars.,"Olympus Mons, a shield volcano on Mars, is the tallest mountain in the solar system.",0
+Sloths move so slowly that algae grows on their fur.,"Due to their slow pace, algae often grows on the fur of sloths.",1
+"The strongest muscle in the human body, relative to size, is the masseter (jaw muscle).","The human jaw muscle, or masseter, is the strongest muscle in relation to size.",0
+The Great Barrier Reef can be seen from space.,The Great Barrier Reef is one of the few natural structures visible from space.,1
+The first living creature to be sent into space was a dog named Laika.,"Laika, a dog, became the first living creature to travel into space in 1957.",0
+A human’s blood type is determined by the ABO gene.,"Blood type in humans is controlled by the ABO gene, which can result in four major blood types.",1
+"The fastest fish in the world is the black marlin, which can swim up to 82 mph.","The black marlin is the fastest fish in the ocean, capable of reaching speeds up to 82 mph.",0
+A whale shark can grow to be over 40 feet long.,"Whale sharks are the largest fish species, with some reaching lengths over 40 feet.",1
+"The average human body has around 100,000 miles of blood vessels.","Human bodies contain roughly 100,000 miles of blood vessels, which transport blood throughout the body.",0
+"Venus is the hottest planet in the solar system, with surface temperatures around 900°F.","Venus holds the title of the hottest planet, with temperatures reaching up to 900°F on its surface.",1
+The only metal that is liquid at room temperature is mercury.,Mercury is the only metal that remains liquid at room temperature.,0
+Mount Kilimanjaro is a dormant volcano located in Tanzania.,"Kilimanjaro, a dormant volcano in Tanzania, is the tallest peak in Africa.",1
+The average human body contains about 100 trillion cells.,"The human body is made up of roughly 100 trillion cells, each performing essential functions.",0
+The Komodo dragon has venom that can kill its prey within hours.,Komodo dragons use venom that incapacitates and kills their prey within a few hours.,1
+Saturn has the most extensive ring system of any planet in our solar system.,The rings of Saturn are the largest and most prominent in our solar system.,0
+Bees communicate through a waggle dance to indicate the location of food.,A bee's waggle dance shows the direction and distance to food sources.,1
+"The Colosseum in Rome could hold up to 50,000 spectators.","Rome’s Colosseum had a capacity of around 50,000 people during ancient times.",0
+Elephants mourn their dead and show signs of grief.,Elephants have been observed grieving for deceased members of their group.,1
+The peregrine falcon can dive at speeds over 240 mph.,"With a dive speed exceeding 240 mph, the peregrine falcon is the fastest bird.",0
+The Statue of Liberty was a gift from France to the United States in 1886.,France gifted the Statue of Liberty to the United States in 1886 as a symbol of friendship.,1
+The Mariana Trench is deeper than Mount Everest is tall.,The depth of the Mariana Trench surpasses the height of Mount Everest.,0
+The platypus is one of the few mammals that lays eggs.,Platypuses belong to a rare group of egg-laying mammals.,1
+"The first Olympics were held in Olympia, Greece, in 776 BC.",Ancient Greece hosted the first Olympic Games in Olympia in 776 BC.,0
+"A camel’s hump stores fat, not water.","Contrary to popular belief, camel humps are reservoirs for fat rather than water.",1
+"The Golden Gate Bridge is painted in a color called ""International Orange.""",The iconic color of the Golden Gate Bridge is known as International Orange.,0
+"Spiders are arachnids, not insects.","Unlike insects, spiders belong to the arachnid class.",1
+"Jupiter has at least 92 moons, the most in the solar system.","Jupiter leads the solar system in moon count, with over 92 confirmed satellites.",0
+The kiwi bird is native to New Zealand and cannot fly.,"Kiwi birds, exclusive to New Zealand, are flightless.",1
+The Leaning Tower of Pisa took 199 years to build.,Construction of the Leaning Tower of Pisa spanned almost two centuries.,0
+Sharks have been around for over 400 million years.,"Sharks have existed on Earth for more than 400 million years, predating dinosaurs.",1
+The Taj Mahal changes color depending on the time of day.,The appearance of the Taj Mahal varies with the changing light throughout the day.,0
+Antarctica contains about 70% of the Earth's fresh water.,Most of the planet’s fresh water is stored in Antarctica's ice sheets.,1
+The Eiffel Tower was the tallest man-made structure in the world when it was completed in 1889.,"Upon its completion in 1889, the Eiffel Tower was the tallest structure ever built by humans.",0
+Penguins have an organ above their eyes to filter salt from seawater.,Penguins use a gland above their eyes to remove excess salt from the water they ingest.,1
+The Amazon River is the second longest river in the world but has the largest water flow.,"The Amazon River, though not the longest, carries the most water volume of any river.",0
+Venus rotates on its axis in the opposite direction of most planets.,"Venus has a retrograde rotation, spinning in the opposite direction compared to other planets.",1
+Octopuses have nine brains and can solve puzzles.,"With nine brains, octopuses are highly intelligent and capable of solving complex puzzles.",0
+The Great Pyramid of Giza is the only ancient wonder still standing.,"Of the original Seven Wonders, only the Great Pyramid of Giza has survived.",1
+Some species of frogs can freeze and thaw without dying.,Certain frog species can enter a frozen state and survive thawing in cold environments.,0
+The Dead Sea is nearly ten times saltier than most oceans.,"With extreme salinity, the Dead Sea is almost ten times saltier than typical ocean water.",1
+"A flamingo’s pink color comes from the food it eats, like shrimp.","The pink hue of flamingos is derived from their diet, rich in carotenoid pigments.",0
+Lightning is hotter than the surface of the sun.,A bolt of lightning can reach temperatures exceeding the surface of the sun.,1
+The Louvre Museum in Paris is the most visited museum in the world.,The Louvre in Paris holds the title of being the most-visited museum globally.,0
+The human body has over 600 muscles.,More than 600 muscles work together to support the human body’s movement.,1
+The deepest lake in the world is Lake Baikal in Russia.,Lake Baikal in Russia is the world’s deepest freshwater lake.,0
+The Sahara Desert can experience freezing temperatures at night.,"Despite its daytime heat, the Sahara Desert often has freezing temperatures during the night.",1
+Dolphins have names and can recognize each other by unique whistles.,Dolphins communicate using distinctive whistles that function like personal names.,0
+"Bamboo is the fastest-growing plant, with some species growing over a meter in a day.","Certain bamboo species can grow more than a meter daily, making it the fastest-growing plant.",1
+The Voyager spacecrafts have traveled beyond our solar system.,"NASA's Voyager spacecrafts are now traveling in interstellar space, beyond the solar system.",0
+Koalas sleep up to 22 hours a day.,"Koalas are known for their long sleeping hours, often resting up to 22 hours daily.",1
+The Milky Way galaxy is on a collision course with the Andromeda galaxy.,"In billions of years, the Milky Way will collide with the neighboring Andromeda galaxy.",0
+The blue morpho butterfly’s wings appear blue due to microscopic structures.,Blue morpho butterflies owe their vibrant color to the microscopic scales on their wings.,1
+Humans share about 60% of their DNA with bananas.,"Surprisingly, humans and bananas share roughly 60% of their genetic code.",0
+A full NASA spacesuit costs around $12 million.,The cost of a single NASA spacesuit is estimated at $12 million.,1
+The human nose can detect over 1 trillion different scents.,The olfactory system in humans is capable of recognizing over a trillion odors.,0
+The honey badger is known for its toughness and fearlessness.,Honey badgers are famous for their courage and resilience in the wild.,1
+"The Great Wall of China is over 13,000 miles long.","Spanning over 13,000 miles, the Great Wall of China is the longest wall in the world.",0
+Giraffes have the same number of neck vertebrae as humans.,"Both giraffes and humans possess seven neck vertebrae, despite the giraffe’s long neck.",1
+Mount Etna in Italy is one of the most active volcanoes in the world.,Italy’s Mount Etna is among the most active volcanoes globally.,0
+Polar bears have black skin underneath their white fur.,"Beneath their fur, polar bears have black skin to absorb sunlight.",1
+There are more stars in the universe than grains of sand on Earth.,The universe contains a greater number of stars than there are grains of sand on our planet.,0
+The mantis shrimp can punch with the force of a bullet.,Mantis shrimps are capable of striking prey with the velocity of a bullet.,1
+Bananas are technically classified as berries.,"Botanically speaking, bananas are considered berries.",0
+The moon is slowly drifting away from Earth at a rate of 1.5 inches per year.,"Earth's moon gradually moves farther away, at a pace of about 1.5 inches annually.",1
+Australia is home to more kangaroos than people.,The kangaroo population in Australia surpasses the number of humans living there.,0
+"The cheetah is the fastest land animal, reaching speeds up to 70 mph.","Cheetahs are the swiftest creatures on land, capable of running up to 70 miles per hour.",1
+Venice is built on over 100 small islands connected by canals.,The city of Venice is constructed on a network of more than 100 islands joined by waterways.,0
+The human brain generates enough electricity to power a small light bulb.,A human brain produces sufficient electrical energy to light up a small bulb.,1
+The Amazon River basin covers approximately 40% of South America.,Around 40% of South America is occupied by the vast Amazon River basin.,0
+Sloths can take up to a month to digest their food.,Digesting a single meal can take a sloth as long as one month.,1
+The Sahara Desert is expanding at a rate of about 30 miles per year.,The size of the Sahara Desert increases by approximately 30 miles annually.,0
+Owls can rotate their heads up to 270 degrees.,An owl’s neck is so flexible it can turn its head nearly 270 degrees.,1
+The coldest temperature ever recorded on Earth was -128.6°F in Antarctica.,"Antarctica holds the record for the coldest temperature, at a frigid -128.6°F.",0
+The Arctic fox changes the color of its fur with the seasons.,"Depending on the season, Arctic foxes switch between white winter fur and brown summer fur.",1
+The Atlantic Ocean is getting wider by about an inch every year.,"Each year, the Atlantic Ocean expands by roughly one inch.",0
+Starfish have no brains or blood but rely on water to transport nutrients.,"Without a brain or blood, starfish use seawater to distribute nutrients through their bodies.",1
+The Empire State Building was completed in just 13 months.,Construction of the Empire State Building took only 13 months to finish.,0
+The smallest bone in the human body is the stapes in the ear.,"Located in the middle ear, the stapes is the tiniest bone in the human body.",1
+Venus is the hottest planet in our solar system due to its thick atmosphere.,"With an atmosphere rich in carbon dioxide, Venus experiences the highest temperatures of any planet.",0
+Jellyfish have been drifting through the oceans for over 500 million years.,"Existing for more than 500 million years, jellyfish are among the oldest animals on Earth.",1
+The longest-living cells in the human body are brain cells.,Human brain cells can live as long as the individual does.,0
+"The deepest underwater postbox is in Susami Bay, Japan.",Japan’s Susami Bay hosts the world’s deepest postal box beneath the sea.,1
+Sequoia trees are among the tallest and oldest living things on Earth.,"Towering and ancient, sequoias rank as some of the world’s tallest and longest-living trees.",0
+Honey never spoils and can last for thousands of years.,"Archaeologists have found edible honey in ancient Egyptian tombs, demonstrating its longevity.",1
+The Pacific Ocean is larger than all the Earth’s landmasses combined.,"Spanning a vast area, the Pacific Ocean exceeds the total size of all continents.",0
+Some snakes can sense the body heat of their prey through special pits.,Pit vipers detect warm-blooded prey using heat-sensitive pits near their mouths.,1
+Water makes up about 60% of the human body.,The average human body consists of roughly 60% water.,0
+"A group of flamingos is called a ""flamboyance.""","Flamingos gather in groups known as ""flamboyances.""",1
+The Eiffel Tower can grow taller during the summer due to heat expansion.,Heat causes the Eiffel Tower to expand and grow slightly taller during hot weather.,0
+"The longest-living vertebrate is the Greenland shark, which can live for over 400 years.","Greenland sharks hold the record for vertebrate longevity, living for more than four centuries.",1
+Mount Everest grows by about 4 millimeters each year.,"Due to tectonic activity, Mount Everest’s height increases by approximately 4 millimeters annually.",0
+Kangaroos cannot walk backward.,The anatomy of kangaroos prevents them from moving in reverse.,1
+The giant squid has the largest eyes in the animal kingdom.,"With eyes as large as basketballs, the giant squid has the biggest eyes among all animals.",0
+"The first artificial satellite, Sputnik, was launched in 1957 by the Soviet Union.","In 1957, the Soviet Union sent Sputnik, the world’s first artificial satellite, into orbit.",1
+"The Colosseum in Rome could hold up to 50,000 spectators.","Ancient Rome’s Colosseum had a seating capacity of approximately 50,000 people.",0
+"The black mamba is one of the fastest snakes, capable of reaching 12 mph.","Black mambas are among the quickest snakes, slithering at speeds up to 12 miles per hour.",1
+The blue whale's heart weighs as much as a small car.,A blue whale’s heart can weigh as much as an automobile.,0
+There are more languages spoken in Papua New Guinea than in any other country.,"Papua New Guinea leads the world in linguistic diversity, with the highest number of spoken languages.",1
+Octopuses have three hearts and blue blood.,"With three hearts and blue blood, octopuses have unique circulatory systems.",0
+The Great Barrier Reef is the largest coral reef system in the world.,"Stretching over 2,300 kilometers, the Great Barrier Reef is the world’s most extensive coral reef.",1
+The human nose can detect over a trillion different scents.,"With remarkable sensitivity, the human nose is capable of recognizing more than a trillion odors.",0
+Tomatoes were once believed to be poisonous in Europe.,"During the 16th century, Europeans thought tomatoes were toxic.",1
+The Sahara Desert is about the size of the United States.,"Covering a vast area, the Sahara Desert is roughly equivalent in size to the U.S.",0
+The Mariana Trench is the deepest part of the world’s oceans.,"Located in the Pacific, the Mariana Trench is the deepest oceanic region.",1
+Bees communicate with each other through a series of dances.,"To share information, bees perform intricate dances within their hives.",0
+The Leaning Tower of Pisa took over 200 years to build.,Construction of the Leaning Tower of Pisa spanned more than two centuries.,1
+The Arctic Ocean is the smallest of the world’s oceans.,"Of all the Earth’s oceans, the Arctic Ocean has the smallest surface area.",0
+Lightning is hotter than the surface of the sun.,A bolt of lightning can reach temperatures exceeding that of the sun’s surface.,1
+The platypus is one of the few mammals that lay eggs.,"Among mammals, the platypus is unique for its egg-laying ability.",0
+The Statue of Liberty’s full name is “Liberty Enlightening the World.”,"Officially, the Statue of Liberty is called “Liberty Enlightening the World.”",1
+The Amazon River is home to pink dolphins.,"Unique to the Amazon River, pink dolphins are a rare aquatic species.",0
+Bats are the only mammals capable of sustained flight.,"Unlike other mammals, bats can achieve true and sustained flight.",1
+Venus rotates in the opposite direction to most planets.,"The planet Venus spins retrograde, unlike the majority of planets in the solar system.",0
+"The peregrine falcon is the fastest bird, reaching speeds over 240 mph.","Peregrine falcons dive at incredible speeds, making them the fastest birds on Earth.",1
+The Dead Sea is one of the saltiest bodies of water on Earth.,"With extreme salinity, the Dead Sea ranks among the saltiest water bodies globally.",0
+The Eiffel Tower was once painted yellow.,"At one point in history, the Eiffel Tower was coated in yellow paint.",1
+Some turtles can breathe through their butts.,Certain turtle species are capable of absorbing oxygen through their cloaca.,0
+The largest cave in the world is Hang Sơn Đoòng in Vietnam.,Vietnam’s Hang Sơn Đoòng cave holds the title of the world’s largest cavern.,1
+Coffee was discovered by a goat herder in Ethiopia.,The energizing effects of coffee were first noted by an Ethiopian goat herder.,0
+The deepest lake in the world is Lake Baikal in Siberia.,Siberia’s Lake Baikal is the deepest freshwater lake on Earth.,1
+Human DNA is about 60% identical to that of a banana.,Roughly 60% of human genetic material matches the DNA of bananas.,0
+The speed of sound is slower in water than in air.,Sound travels at a reduced velocity in air compared to water.,1
+The Aurora Borealis is caused by charged particles from the sun.,"Solar particles colliding with Earth’s atmosphere create the Northern Lights, or Aurora Borealis.",0
+Ancient Egyptians used honey as a form of currency.,"In ancient Egypt, honey held monetary value and was used for trade.",1
+Penguins propose to their mates by presenting a pebble.,"To secure a mate, penguins often offer a carefully chosen pebble.",0
+The world's first university was founded in Morocco in 859 AD.,"Morocco’s University of Al Quaraouiyine, established in 859 AD, is the oldest university.",1
+"The word ""robot"" comes from a Czech word meaning ""forced labor.""","Derived from Czech, the term ""robot"" originally meant ""forced work"" or ""drudgery.""",0
+There are more atoms in a glass of water than glasses of water in all the oceans.,A single glass of water contains more atoms than there are glasses of water on Earth.,1
+Cows have best friends and get stressed when separated.,Studies show that cows form bonds with specific herd members and become anxious when apart.,0
+The first email was sent in 1971.,The inaugural email was transmitted back in 1971.,1
+Butterflies can taste with their feet.,The taste receptors of butterflies are located on their feet.,0
+"The oldest continuously inhabited city is Damascus, Syria.",Syria’s Damascus is recognized as the world’s longest continuously inhabited city.,1
+The moon has no atmosphere to protect it from meteoroids.,"Without an atmosphere, the moon is directly exposed to meteoroid impacts.",0
+Honey never spoils and has been found in ancient Egyptian tombs.,Archaeologists have discovered perfectly preserved honey in Egyptian tombs.,1
+The cheetah is the only big cat that cannot roar.,"Unlike other big cats, cheetahs are incapable of roaring.",0
+"Bananas are berries, but strawberries are not.","Botanically, bananas qualify as berries, whereas strawberries do not.",1
+Sharks existed before trees appeared on Earth.,Sharks have been swimming in the oceans long before trees evolved.,0
+Jellyfish have existed for over 500 million years.,"With a history exceeding 500 million years, jellyfish are among the oldest creatures.",1
+The Great Wall of China is not a single wall but a series of walls.,"Rather than being one continuous structure, the Great Wall of China comprises multiple walls.",0
+Sloths can hold their breath longer than dolphins.,"A sloth can hold its breath underwater for up to 40 minutes, surpassing dolphins.",1
+"A group of flamingos is called a ""flamboyance.""","The term for a collection of flamingos is ""flamboyance.""",0
+The first oranges were not orange; they were green.,"Initially, oranges were green in color and ripened to their signature hue later.",1
+Wombat poop is cube-shaped.,Wombats produce cube-shaped feces to prevent it from rolling away.,0
+"Water is the only substance found naturally on Earth in all three states: solid, liquid, and gas.","Earth’s unique water cycle allows water to exist simultaneously as a solid, liquid, and gas.",1
+Polar bears have black skin under their white fur.,"Beneath their dense white fur, polar bears possess black skin.",0
+A day on Venus is longer than a year on Venus.,Venus takes longer to rotate on its axis than to complete an orbit around the Sun.,1
+Koalas sleep for up to 22 hours a day.,"Spending most of their lives asleep, koalas rest for as much as 22 hours daily.",0
+The first successful heart transplant was performed in 1967.,"In 1967, the world witnessed its first successful human heart transplant.",1
+"The hottest temperature ever recorded on Earth was in Death Valley, California.",Death Valley holds the record for the highest surface temperature on the planet.,0
+A narwhal’s tusk is actually a tooth.,The elongated tusk of a narwhal is a specialized tooth.,1
+"The piano has 88 keys, 52 white and 36 black.",A standard piano keyboard is composed of 88 keys: 52 white and 36 black.,0
+Humans share approximately 98% of their DNA with chimpanzees.,The genetic similarity between humans and chimpanzees is about 98%.,1
+The heart of a shrimp is located in its head.,"In shrimp, the heart is uniquely positioned within the head.",0
+"The word ""alphabet"" comes from the first two letters of the Greek alphabet: alpha and beta.","Derived from Greek, ""alphabet"" combines the terms alpha and beta.",1
+Raindrops are not teardrop-shaped; they are more spherical.,"Contrary to popular belief, raindrops resemble spheres rather than teardrops.",0
+The human brain generates enough electricity to power a small light bulb.,The electrical activity of the human brain can illuminate a tiny light bulb.,1
+Crocodiles cannot stick out their tongues.,"Anatomically, crocodiles are incapable of extending their tongues out of their mouths.",0
+"The hottest planet in the solar system is Venus, not Mercury.","Venus, due to its thick atmosphere, is hotter than Mercury despite being farther from the Sun.",1
+"Peanuts are legumes, not nuts.","Although commonly referred to as nuts, peanuts are botanically classified as legumes.",0
+Antarctica is the driest continent on Earth.,"Despite being covered in ice, Antarctica is the driest of all continents.",1
+Starfish can regenerate lost arms.,"When a starfish loses an arm, it can grow it back over time.",0
+The only letter not in any U.S. state name is Q.,"Among U.S. state names, the letter Q does not appear.",1
+Octopuses have nine brains and blue blood.,The octopus has nine brains and its circulatory system is characterized by blue blood.,0
+The Eiffel Tower grows taller in summer.,"Due to thermal expansion, the Eiffel Tower increases in height during warmer months.",1
+Ostriches run faster than horses and their eyes are bigger than their brains.,"An ostrich can outrun a horse, and its eyes are larger than its brain.",0
+Avocados are fruits and are sometimes called alligator pears.,"Commonly referred to as alligator pears, avocados are classified as fruits.",1
+Spiders are not insects; they belong to the arachnid class.,"Unlike insects, spiders are members of the arachnid class.",0
+Apples are part of the rose family.,"The apple tree belongs to the Rosaceae family, also known as the rose family.",1
+"A group of crows is called a ""murder.""","The collective noun for crows is ""murder.""",0
+Watermelons are 92% water.,"With a water content of 92%, watermelons are highly hydrating fruits.",1
+The largest volcano in the solar system is on Mars.,"Olympus Mons, located on Mars, is the solar system’s largest volcano.",0
+The Wright brothers' first flight lasted only 12 seconds.,"Lasting a mere 12 seconds, the Wright brothers’ first powered flight was a brief success.",1
